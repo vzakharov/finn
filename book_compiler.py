@@ -39,7 +39,7 @@ def find_chapter_files(book_dir):
 
 def create_combined_markdown(book_dir, chapter_files):
     """Create a single combined markdown file with all chapters, separated by double newlines."""
-    combined_file = book_dir / "combined_book.md"
+    combined_file = book_dir / "compiled.md"
     
     # Collect the contents of all files
     with open(combined_file, 'w') as outfile:
@@ -134,13 +134,9 @@ def compile_to_html(book_dir, metadata, chapter_files, debug=False):
         return True, output_file
     
     finally:
-        # Clean up temporary files
+        # Clean up temporary metadata file
         os.unlink(metadata_file)
-        if not debug:
-            try:
-                os.unlink(combined_file)
-            except OSError:
-                pass
+        # We're now keeping the combined markdown file permanently as compiled.md
 
 def create_default_css(css_path):
     """Create a simple default CSS file for the book."""
@@ -268,6 +264,7 @@ def main():
     if success:
         print(f"Book '{metadata.get('title')}' successfully compiled to HTML!")
         print(f"You can view it by opening {output_file} in your browser.")
+        print(f"The compiled markdown is available at {book_dir}/compiled.md")
     else:
         print("Failed to compile book.")
 
