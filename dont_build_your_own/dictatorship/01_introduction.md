@@ -3,7 +3,9 @@ title: (Don't) Build Your Own Dictatorship
 subtitle: A (no-)nonsense guide to power grabs, propaganda, and the occasional moustache
 ---
 
-## **Introduction**
+# **Introduction**
+
+*Where sticks become scepters (until they don’t)*
 
 Let’s begin, as many regrettable ideas do, with a stick.
 

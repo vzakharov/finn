@@ -1,5 +1,6 @@
-## **Part 0: A Look Behind Before the Boots Come Marching**
-*(Because every future strongman needs to learn to look over their shoulder)*
+# **Part 0: Baby Steps: Warming Up to the Boots’ March**
+
+*Because every aspiring tyrant needs to study the ancient masters of oppression*
 
 Trying to find *the first* dictatorship is a bit like trying to find *the first* sandwich. It probably wasn’t called that yet, and the recipe involved more blood than bread, but the core ingredients were already there: hunger, opportunity, and someone slower than you.
 
