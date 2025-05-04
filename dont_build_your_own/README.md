@@ -1,6 +1,6 @@
-# (Don't) Build Your Own – Book Series
+# (Don’t) Build Your Own – Book Series
 
-Welcome to the glorious (and ill-advised) blueprint series for building complex human systems you probably shouldn’t. *(Don't) Build Your Own* is a satirical, faux-practical guidebook series exploring heavy topics through a recipe-book lens.
+Welcome to the glorious (and ill-advised) blueprint series for building complex human systems you probably shouldn’t. *(Don’t) Build Your Own* is a satirical, faux-practical guidebook series exploring heavy topics through a recipe-book lens.
 
 The books are packed with history, anthropology, politics, and anecdotes — all framed as if the reader is being walked through the steps of building their own version of the topic (bad idea, obviously).
 
@@ -12,16 +12,16 @@ We use historical examples as “cautionary tales” and fictional anecdotes to 
 
 ## 🧪 Current Planned Titles
 
-- **(Don't) Build Your Own Dictatorship**  
+- **(Don’t) Build Your Own Dictatorship**  
   _Power grabs, propaganda, and the occasional moustache._
 
-- **(Don't) Build Your Own Religion**  
+- **(Don’t) Build Your Own Religion**  
   _Holy visions, schisms, and the art of declaring Tuesdays sacred._
 
-- **(Don't) Build Your Own War**  
+- **(Don’t) Build Your Own War**  
   _Logistics, flags, and other ways to make a mess at scale._
 
-- **(Don't) Build Your Own Conspiracy Theory**  
+- **(Don’t) Build Your Own Conspiracy Theory**  
   _Dots, strings, and how to connect absolutely everything to lizard people._
 
 Each book follows a consistent tone and structure but is independent in content and theme.
@@ -41,7 +41,7 @@ To help tools like Cursor index and interact with the book:
 - Each **book** lives in its own **folder**.
   - Example: `/dictatorship`, `/religion`, etc.
 - Inside each book folder:
-  - Each **part** of the book (e.g. "Foundations", "How to Fall", etc.) is a **subfolder**.
+  - Each **part** of the book (e.g. “Foundations”, “How to Fall”, etc.) is a **subfolder**.
   - Each **chapter** is a separate `.md` file.
   - Optional: `intro.md`, `appendix.md`, `references.md`, etc.
 

@@ -10,7 +10,7 @@ Around 2334 BCE, Sargon rose from his humble beginnings as a cupbearer — essen
 
 The opening pitch of Sargon’s career was, in modern terms, a coup-slash-merger. Legend says he began as a servant in the court of Ur-Zababa, king of Kish. One day — possibly after a poorly poured drink — Sargon staged a palace coup and took the throne. From there, he rapidly moved from local power to regional menace, conquering Uruk and parading its defeated king, Lugalzagesi, through the sacred gate of Enlil *on a leash*.
 
-Let’s pause here. Leading your rival by a collar through a major temple isn’t just a victory lap. It’s a PowerPoint presentation in human form. It's Sargon saying, “I own your gods now.”
+Let’s pause here. Leading your rival by a collar through a major temple isn’t just a victory lap. It’s a PowerPoint presentation in human form. It’s Sargon saying, “I own your gods now.”
 
 ### Wash Your Weapons in the Sea
 
@@ -18,7 +18,7 @@ Over the next few decades, Sargon built an empire that stretched from the Persia
 
 This is not metaphor. Akkadian bureaucrats actually named years after atrocities. “The Year I Burned Mari.” “The Year I Besieged Elam (Again).” Imagine filing your taxes during “The Year Dad Got Marched Through the Temple in Chains.”
 
-He boasted that “5,400 men eat daily at my table,” which was either the region’s first professional standing army or an extremely aggressive dinner party. He washed his weapons in the sea, which is what you do when you've run out of cities to sack on land.
+He boasted that “5,400 men eat daily at my table,” which was either the region’s first professional standing army or an extremely aggressive dinner party. He washed his weapons in the sea, which is what you do when you’ve run out of cities to sack on land.
 
 ### The Bureaucratized Bludgeon
 

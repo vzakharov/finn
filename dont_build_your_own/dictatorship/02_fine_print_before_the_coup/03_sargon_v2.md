@@ -4,7 +4,7 @@
 
 If Narmer was the prototype — a one-mace show who unified a nation with grit, spectacle, and creative head placement — Sargon of Akkad was the rollout. The expansion pack. The man who looked at a bloody throne and thought, “Let’s scale this.”
 
-Born a nobody (or so he claimed), Sargon’s backstory is pure legend bait: an orphan floated down the Euphrates in a pitch-sealed basket, plucked from obscurity by a humble gardener, and raised to become cupbearer to the King of Kish. But make no mistake — this was not a story about humility. It was an origin myth with IPO energy. Because not long after handing his boss a drink, Sargon apparently turned around and *took his job*. And then took everyone else's.
+Born a nobody (or so he claimed), Sargon’s backstory is pure legend bait: an orphan floated down the Euphrates in a pitch-sealed basket, plucked from obscurity by a humble gardener, and raised to become cupbearer to the King of Kish. But make no mistake — this was not a story about humility. It was an origin myth with IPO energy. Because not long after handing his boss a drink, Sargon apparently turned around and *took his job*. And then took everyone else’s.
 
 ### From Kish to Everywhere
 
@@ -35,7 +35,7 @@ Well, yes. He didn’t call himself that (the Romans hadn’t invented the word 
 * **Violent suppression of dissent?** Please. He had *year names* for it.
 * **Centralized bureaucracy, language imposition, and personality cult?** Empire starter pack.
 
-If Narmer invented the bloody crown, Sargon industrialized it. His was a rule-by-template model: repeatable, scalable, deadly. The world's first dictatorship franchise, complete with brand identity, standardized oppression, and expansion goals.
+If Narmer invented the bloody crown, Sargon industrialized it. His was a rule-by-template model: repeatable, scalable, deadly. The world’s first dictatorship franchise, complete with brand identity, standardized oppression, and expansion goals.
 
 And like all franchises, his legacy was mixed. The empire crumbled within a century of his death. Turns out, centralization works great until it doesn’t. But for a brief, glorious moment, Sargon held the world’s first monopoly on war, taxes, and time itself.
 

@@ -10,10 +10,10 @@ Sargon of Akkad (r. 2334–2279 BCE) anchored his rule in a primal mix of specta
    After routing Lugal-zage-si of Uruk, Sargon’s inscription recounts how he tore down Uruk’s walls and “led him in a collar to the gate of Enlil,” staging a ritual of submission that broadcast his absolute authority to all who witnessed ([Wikipedia][1]) ([static.secure.website][3]).
 
 2. **Washing Weapons in the Sea**
-   A Penn Museum analysis notes that, following his coastal conquests, Sargon proudly claimed he “could wash his weapons in the sea,” turning the Persian Gulf into the ultimate war-trophy basin ([Penn Museum][4]) ([Pete's Favourite Things][5]).
+   A Penn Museum analysis notes that, following his coastal conquests, Sargon proudly claimed he “could wash his weapons in the sea,” turning the Persian Gulf into the ultimate war-trophy basin ([Penn Museum][4]) ([Pete’s Favourite Things][5]).
 
 3. **Razing Key City Walls**
-   Contemporary records describe Sargon’s systematic destruction of urban defenses: he “conquered Ur, destroyed its walls, then conquered Eninmar and destroyed its fortifications, finally extending his rule to Lagash as far as the sea,” leaving hinterlands flattened ([Pete's Favourite Things][5]) ([World History Encyclopedia][6]).
+   Contemporary records describe Sargon’s systematic destruction of urban defenses: he “conquered Ur, destroyed its walls, then conquered Eninmar and destroyed its fortifications, finally extending his rule to Lagash as far as the sea,” leaving hinterlands flattened ([Pete’s Favourite Things][5]) ([World History Encyclopedia][6]).
 
 4. **Mountainous Destruction**
    In royal invective, Sargon proclaims that he “destroyed mighty mountains with axes of bronze,” “ascended the upper mountains,” and “besieged the country of the sea three times,” emphasising campaigns against distant realms like Dilmun ([Wikipedia][2]) ([World History Encyclopedia][7]).

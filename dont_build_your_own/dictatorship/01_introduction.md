@@ -1,5 +1,5 @@
 ---
-title: (Don't) Build Your Own Dictatorship
+title: (Don’t) Build Your Own Dictatorship
 subtitle: A (no-)nonsense guide to power grabs, propaganda, and the occasional moustache
 ---
 
