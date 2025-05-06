@@ -4,35 +4,47 @@
 
 Laziness gets a bad rap. Usually by people who confuse it with apathy, or worse, with incompetence. But let’s be honest—most so-called "lazy" people aren’t uninterested in doing *something*; they’re just uninterested in doing *that*. The boring stuff. The spreadsheet wrangling. The mindless form-filling. The third status update this week.
 
+Contrary to your inner schoolteacher’s warnings, laziness isn’t a character flaw. It’s a kind of feral intelligence. A quiet rebellion against the tyranny of pointless effort. Or, as any bored genius will tell you, true laziness is just brilliance that refuses to be wasted on tedium.
+
 Psychologist Boris Kriger, via Douglas Hofstadter’s no-nonsense brilliance, nailed it: laziness *drives innovation by prompting people to design tools, processes, and systems that reduce the effort needed to complete tasks.* This is the quietly muttered battle cry of the lazy genius: "I don’t want to do it, so I’ll make it do itself."
 
-And it turns out science backs this up. A study published in the *Journal of Health Psychology* (as retold by Scotty Hendricks over at Big Think) found that individuals with a high “need for cognition”—people who enjoy thinking—tend to be less physically active. Not because they’re lazy in the couch-potato sense, but because they’re more mentally engaged. When your brain is already juggling the theory of mind and the plot holes in season 4 of *Dark*, you’re not going to volunteer for unnecessary action. The body conserves; the mind schemes.
+And it turns out science backs this up. A study published in the *Journal of Health Psychology* (as retold by Scotty Hendricks over at Big Think) found that individuals with a high “need for cognition”—people who enjoy thinking—tend to be less physically active. Not because they’re lazy in the couch-potato sense, but because they’re more mentally engaged. Sometimes, they’re just more content to sit still and chew ideas like mental cud. Lazy? Or just preoccupied with higher-order problems like the metaphysics of dishwasher loading? You decide.
+
+When your brain is already juggling the theory of mind and the plot holes in season 4 of *Dark*, you’re not going to volunteer for unnecessary action. The body conserves; the mind schemes.
 
 ## An outsourcing intern for the creatively lazy
 
 Enter AI—the glorious unpaid intern with unlimited patience and questionable judgment. For those of us who’ve always treated tasks as dragons to be delegated rather than slain, AI is less of a revolution and more of a long-awaited relief.
 
+Here’s a hot take that’ll get you uninvited from LinkedIn panels: AI isn’t here to replace you. It’s here to stop you from having to write another useless summary email at 5:47 p.m. on a Thursday. It’s not gunning for your job—it’s eyeing your to-do list like a golden retriever eyeing a tennis ball.
+
 Where some see threats, the cleverly lazy see tools. AI doesn’t have to replace you—it can just *relieve* you. Of the tedious, the repetitive, the "ugh do I really have to write this email again?" parts of the job. The kind of stuff that should have been replaced with magic long ago, but HR was against summoning.
 
-AI does the boring parts fast. And as Ethan Mollick points out, in tasks like business writing, it can cut down time by 40% *and* improve quality. People get their time back—and maybe their souls, too.
+AI does the boring parts fast. And as Ethan Mollick points out, in tasks like business writing, it can cut down time by 40% *and* improve quality. People get their time back—and maybe their souls, too. (Bonus: "After using it, people were more worried about their jobs… but also significantly happier – why? Because a lot of work is boring, and AI did the boring stuff fast.")
 
-We’re not building robots to take over. We’re building assistants to hold the clipboard while we invent the next thing to offload. The creatively lazy among us have simply found a new accomplice.
+We’re not building robots to take over. We’re building assistants to hold the clipboard while we invent the next thing to offload. The creatively lazy among us have simply found a new accomplice. The folks who already know how to offload crap work are living their best lives right now. They’ve seen this movie before. It’s just a newer cast.
 
 ## Scripting was the old lazy; prompting is the new lazy
 
 Before ChatGPT, the lazy coders of the world wrote scripts, set up macros, and duct-taped together Zapier flows to automate their grunt work. This wasn’t new. It was just the latest form of the same old impulse: make the machine do it so I don’t have to.
 
-Ethan Mollick, in his characteristically dry academic enthusiasm, notes that AI is simply the next stop on the Automation Express: “Automation has always been about eliminating work that is repetitive, and often dangerous or boring.” Whether it was looms, spreadsheets, or Excel macros, the point was always to replace human tedium with machine efficiency.
+Once upon a time, the creatively lazy wrote scripts to escape repetition. Macros in Excel. Bash aliases. Chrome extensions that autoclose annoying tabs. The tools varied, but the spirit remained the same: "I shouldn’t have to do this twice."
+
+Ethan Mollick, in his characteristically dry academic enthusiasm, notes that AI is simply the next stop on the Automation Express: "Automation has always been about eliminating work that is repetitive, and often dangerous or boring." Whether it was looms, spreadsheets, or Excel macros, the point was always to replace human tedium with machine efficiency.
 
 What’s different now is accessibility. You don’t need to code. You just need to type. Scripting took a certain flavor of nerdy laziness. Prompting democratizes it. Now anyone with a browser and a healthy distaste for repetitive work can outsource to a wordy robot.
 
-Prompt engineering is becoming the spiritual successor to scripting. Same lazy soul, just better UX.
+Prompts are just scripts in a tuxedo. Or maybe a hoodie. Point is, they’re dressed for the occasion. Prompt engineering is becoming the spiritual successor to scripting. Same lazy soul, just better UX.
 
 ## The throne belongs to the cunning delegator
 
 So, who thrives in this new world? The ones who understand delegation—not just to people, but to algorithms. The ones who know how to break down tasks, hand them off, and only swoop in for quality control like a manager with style and a calendar full of "thinking time."
 
-Bernard Marr spells it out in one line: *“Artificial intelligence isn’t going to replace people—but people who use AI are going to replace people who don’t.”* It’s not about fearing AI. It’s about partnering with it. The way old fairy tale fools succeed—not by brute force or cleverness, but by asking the right magical helper to do the job.
+Here’s where it gets spicy: you don’t even need to *do* the thing anymore—you just need to be the person who knows *what* should be done and *how* to offload it. The new power move isn’t hustle. It’s judgment. Can you tell what should be done by you, and what should be punted to the bots? Can you steer the intern who never sleeps, never unionizes, and never asks for a raise? Welcome to your empire.
+
+Bernard Marr spells it out in one line: *"Artificial intelligence isn’t going to replace people—but people who use AI are going to replace people who don’t."* That’s not career advice. That’s a weather report. The rain is falling, and the umbrella is called *delegation*.
+
+It’s not about fearing AI. It’s about partnering with it. The way old fairy tale fools succeed—not by brute force or cleverness, but by asking the right magical helper to do the job.
 
 Think of the lazy third son in every folktale. The one who doesn’t fight the dragon but chats with the talking bird who knows a shortcut. Delegation is their secret sauce. It’s not about doing the work. It’s about making sure the work gets done—with a bit of wit, charm, and strategic idleness.
 
@@ -45,3 +57,5 @@ Stop whining. Start prompting. You don’t need to become a tech wizard. You jus
 If you’re already inclined to offload tedious work, congrats—you’re halfway to mastering AI delegation. If you're still clutching your to-do list like a badge of honor, maybe it's time to look up, squint at the future, and think: what would a lazy genius do?
 
 Probably nothing. But they’d get a bot to do something *very* useful.
+
+All hail the lazy—the first, and now official, emperors of the prompt economy.
