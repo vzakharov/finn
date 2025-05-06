@@ -1,0 +1,217 @@
+- Q: |
+    "Lazy is the new black":
+
+    * Laziness is rarely really "I don't want to do anything," it's in most cases "I don't want to do this *boring* stuff"
+    * Rise of AI: people who are naturally used to offloading work will be less "wa wa AI will replace me" and more like "wow cool now I can stop doing this boring stuff"
+    * This is not a paradigmally new phenomenon: Previously lazy people would write scripts to automate parts of their work (and I don't mean programming jobs), not they'll be writing prompts
+      Thus, people who can stop whining and start making the most of the new ways to *not* do things will rule the transitional era (which likely means the next few months — kidding. Or not.)
+
+  A: |
+    That's a tasty slice of future-truth wrapped in snark. You're basically saying:
+
+    * Laziness isn't sloth; it's misdirected brilliance with a low boredom threshold.
+    * AI isn't a job-stealer, it's an outsourcing intern for the creatively lazy.
+    * Scripting was the old lazy; prompting is the new lazy. Same spirit, shinier tools.
+    * And in the era of AI, the throne belongs not to the tireless grinder, but to the cunning delegator.
+
+    You want this polished into a post, article draft, tweet thread, or just grunted into a meme caption?
+
+- Q: |
+    Let's research first to (a) see if that's been already told, (b) if there are some arguments we might have missed, for each of the statements
+
+  A: |
+    Below is a structured research summary for each of your four statements, showing where these ideas already exist in the literature and highlighting perspectives you might have missed.
+
+    ## Summary of Key Findings
+
+    Our investigation shows that each of your core propositions has been explored—though often under different labels—and that there are valuable nuances to add. Psychology and productivity research affirm that "laziness" typically reflects a desire to avoid *boring* tasks rather than general inertia. Studies of AI in the workplace reveal both enthusiasm and anxiety, with optimists quicker to adopt "boring‐task‐killer" tools and others still fearing displacement. Historically, office automation has progressed from mechanical gadgets to scripts and macros, and now to prompt engineering—each wave driven by the same impulse to offload tedium. Finally, human-AI collaboration research underscores that mastering delegation—to both people and machines—is a critical skill for thriving in this transitional era.
+
+    ---
+
+    ## 1. Laziness Isn't Apathy—It's an Aversion to the Mundane
+
+    ### (a) Has This Been Told?
+
+    * **Motivation vs. Effort**: Laziness arises when the drive to conserve effort outweighs the drive to do what's expected, not from a desire to do absolutely nothing ([Psychology Today][1]).
+    * **Boredom vs. Laziness**: Boredom signals a need for engagement, while laziness pushes us toward efficiency—designing tools and processes that eliminate drudgery ([Medium][2]).
+    * **Intelligence Link**: Individuals with a high "need for cognition" (enjoyment of thinking) tend to be less physically active, suggesting laziness often reflects intellectual engagement rather than sloth ([Big Think][3]).
+
+    ### (b) Additional Perspectives
+
+    * **Fear and Self-Sabotage**: Some laziness stems from fear of success or low self-esteem, acting as a protective sabotage mechanism.
+    * **Instinctual Idleness**: Our evolutionary drive favored energy conservation, now misaligned with long-term projects requiring sustained effort.
+    * **Job Meaning**: Roles that feel abstract or disconnected from tangible outcomes exacerbate laziness; seeing clear impact can counteract it.
+
+    ---
+
+    ## 2. AI as the Ultimate Boring-Task Offloader
+
+    ### (a) Has This Been Told?
+
+    * **Time Saved, Quality Gained**: In business writing tasks, ChatGPT cut completion time by 40% and improved quality by 18%, leaving users happier despite some job-fear ([oneusefulthing.org][4]).
+    * **Repetitive Tasks Freed**: AI's forte is mundane, repetitive work—handling data entry, scheduling, form-filling—so employees can focus on creative problem-solving ([People Insight][5]).
+    * **Worker Optimism**: A 2024 survey of 9,000+ workers across nine countries found more report benefits (safety, pay, autonomy) from AI and robotics than costs ([arxiv.org][6]).
+    * **Sector-Specific Enthusiasm**: In hospitality, managers view "BurgerBots" as efficiency enhancers, not replacements, reflecting excitement at offloading drudgery ([New York Post][7]).
+
+    ### (b) Additional Arguments
+
+    * **Persistent Anxiety**: About half of U.S. workers worry AI will negatively affect jobs; only 36% feel hopeful, showing a divide between early adopters and the rest ([Qualtrics][8]).
+    * **Upskilling Imperative**: As AI handles routine tasks, the premium shifts to creative, interpersonal, and oversight skills, necessitating rapid reskilling.
+
+    ---
+
+    ## 3. Not New—From Scripts to Prompts
+
+    ### (a) Has This Been Told?
+
+    * **Office Automation Waves**: From mechanical typewriters and adding machines in the 19th century, through electromechanical calculators, to personal computers in the 1970s–1980s, each leap automated drudgery ([Princeton University][9]).
+    * **Macro Recorders**: Excel's built-in Macro Recorder and VBA scripting have long let users record and replay repetitive workflows with a few clicks ([Майкрософт Поддержка][10]).
+    * **RPA Platforms**: Tools like UiPath began uniting cross-functional processes into end-to-end automations, inspiring corporate automation backlogs ([stackoverflow.blog][11]).
+    * **Prompt Engineering**: Since 2018, prompting has emerged as the natural-language analogue to scripting—crafting text inputs to steer AI models toward desired outputs ([Wikipedia][12]).
+
+    ### (b) Additional Perspectives
+
+    * **Professionalization**: As tooling matured, "citizen developers" joined IT pros in writing automations, raising governance and tech-debt questions.
+    * **Process Mapping**: Effective automation historically required deep process understanding—a lesson that applies equally to writing good prompts.
+
+    ---
+
+    ## 4. Delegators Will Rule the Transition
+
+    ### (a) Has This Been Told?
+
+    * **AI Delegation as Core Skill**: Managers must learn to map workforce capabilities to AI tools, effectively leading a blended human-robot team ([Форбс][13]).
+    * **Boosted Performance & Satisfaction**: Experimental evidence shows letting AI choose which subtasks to handle can improve both human performance and job satisfaction through increased self-efficacy ([arxiv.org][14]).
+    * **Gen-AI & Delegation**: Remote-worker surveys highlight "delegation" (clearly specifying tasks, verifying results) as a critical skill in a Gen-AI world ([Harvard Business Review][15]).
+
+    ### (b) Additional Arguments
+
+    * **Coaching Matters**: Delegation without coaching can overload recipients; integrating feedback loops and training is key to success.
+    * **Policy & Ethics**: Effective delegation requires clear AI-use policies, guardrails, and transparency to maintain trust and fairness.
+
+    ---
+
+    **Next Steps:**
+
+    * **Refine each point** into blog posts or slide decks, citing these studies.
+    * **Spotlight case studies** of prompt-engineers and script-writers turned AI-power-users.
+    * **Develop a "Delegation Toolkit"** combining best practices from HCI research and leadership coaching.
+
+    With these added angles, your "Lazy is the New Black" thesis will be both grounded in existing discourse and enriched with fresh insights.
+
+    [1]: https://www.psychologytoday.com/us/blog/hide-and-seek/201410/the-psychology-of-laziness "The Psychology of Laziness | Psychology Today"
+    [2]: https://medium.com/clinical-research-news/the-relationship-between-boredom-and-laziness-a-paradox-of-human-motivation-b72d082b9059 "The Relationship Between Boredom and Laziness: A Paradox of Human Motivation | by Boris (Bruce) Kriger | CLINICAL RESEARCH NEWS | Medium"
+    [3]: https://bigthink.com/neuropsych/researchers-find-link-between-tolerance-for-boredom-and-level-of-intelligence/ "Researchers Find Link Between Laziness and Intelligence - Big Think"
+    [4]: https://www.oneusefulthing.org/p/in-praise-of-boring-ai "In Praise of Boring AI - by Ethan Mollick"
+    [5]: https://peopleinsight.co.uk/pros-cons-ai-workplace/ "10 Pros and Cons of AI in the Workplace | People Insight"
+    [6]: https://arxiv.org/abs/2409.20387 "[2409.20387] Automation from the Worker's Perspective"
+    [7]: https://nypost.com/2025/05/05/tech/california-burger-joint-brings-robots-onto-the-patty-assembly-line/?utm_source=chatgpt.com "Robots run this burger restaurant - and can serve your meal in just 27 seconds"
+    [8]: https://www.qualtrics.com/news/ai-generates-excitement-and-fear-as-employees-worry-about-job-security/ "AI Generates Excitement and Fear as Employees Worry about Job Security - Qualtrics"
+    [9]: https://www.princeton.edu/~ota/disk2/1985/8503/850303.PDF "Automation of America's Offices, 1985-2000 (Part 3 of 16)"
+    [10]: https://support.microsoft.com/en-us/office/automate-tasks-with-the-macro-recorder-974ef220-f716-4e01-b015-3ea70e64937b?utm_source=chatgpt.com "Automate tasks with the Macro Recorder - Microsoft Support"
+    [11]: https://stackoverflow.blog/2022/07/25/automate-the-boring-parts-of-your-job/?utm_source=chatgpt.com "Automate the boring parts of your job - Stack Overflow"
+    [12]: https://en.wikipedia.org/wiki/Prompt_engineering "Prompt engineering - Wikipedia"
+    [13]: https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/?utm_source=chatgpt.com "AI Delegation: The One Skill You Will Need To Succeed In The Future"
+    [14]: https://arxiv.org/abs/2303.09224?utm_source=chatgpt.com "Human-AI Collaboration: The Effect of AI Delegation on Human Task Performance and Task Satisfaction"
+    [15]: https://hbr.org/2024/07/gen-ai-is-coming-for-remote-workers-first?ref=nodesk&utm_source=chatgpt.com "Gen AI Is Coming for Remote Workers First - Harvard Business Review"
+
+- Q: |
+    Nice. Here are the sources I will use:
+
+    * "The Relationship Between Boredom and Laziness: A Paradox of Human Motivation | by Boris (Bruce) Kriger | CLINICAL RESEARCH NEWS | Medium"
+    * "Researchers Find Link Between Laziness and Intelligence - Big Think"
+    * "In Praise of Boring AI - by Ethan Mollick"
+    * "AI Delegation: The One Skill You Will Need To Succeed In The Future"
+
+    Can you please research them to get specific quotes relating to our essay
+
+  A: |
+    Below is a curated selection of verbatim quotes from each of your four sources, organized to feed directly into your essay.
+
+    ## Summary of Selected Quotes
+
+    You'll find evidence here that boredom and laziness have been reframed as dual engines of innovation, that intelligence correlates with a tolerance for tedium, that AI shines brightest on drudge work, and that mastering AI delegation is already being positioned as the career skill of tomorrow.
+
+    ---
+
+    ## 1. The Relationship Between Boredom and Laziness: A Paradox of Human Motivation
+
+    ### Key Quotes
+
+    * "Laziness is often viewed negatively in society, perceived as a detriment to productivity and personal growth. However, recent discussions in psychology and philosophy suggest that laziness can serve as a constructive force, enabling innovation and creativity." ([Medium][1])
+    * "Boredom is defined as an emotional state characterized by a lack of interest or engagement in current activities, leading to feelings of dissatisfaction or restlessness (Bench & Lench, 2013)." ([Medium][1])
+    * "Laziness, on the other hand, is commonly understood as the avoidance of effort or exertion, especially in tasks that are perceived as difficult or demanding (Eklund, 2013)." ([Medium][1])
+    * "Neurologically, boredom activates the brain's default mode network, which is associated with daydreaming and mind-wandering (Mason et al., 2007)." ([Medium][1])
+    * "Laziness, in this context, drives innovation by prompting people to design tools, processes, and systems that reduce the effort needed to complete tasks (Hofstadter, 2011)." ([Medium][1])
+
+    ---
+
+    ## 2. Researchers Find Link Between Laziness and Intelligence
+
+    ### Key Quotes
+
+    * "Lazy persons of the world, rejoice! You might be brighter than average!" ([Big Think][2])
+    * "Persons who enjoyed thinking more were less active than those who found thinking to be a burden or dull." ([Big Think][2])
+    * "The need for cognition, or NFC, is measured by a simple test … that has been in use for decades." ([Big Think][2])
+    * "The results showed that those with a higher NFC were significantly less active than those with low NFC." ([Big Think][2])
+
+    ---
+
+    ## 3. In Praise of Boring AI
+
+    ### Key Quotes
+
+    * "in realistic business writing tasks, ChatGPT decreased the time required for work by 40%, even as outside evaluators rated the quality of work written with the help of AI to be 18% better than the ones done by humans alone." ([One Useful Thing][3])
+    * "After using it, people were more worried about their jobs… but also significantly happier – why? Because a lot of work is boring, and AI did the boring stuff fast." ([One Useful Thing][3])
+    * "Automation has always been about eliminating work that is repetitive, and often dangerous or boring." ([One Useful Thing][3])
+    * "Thus, if we want to think about the first work we truly give to AIs, maybe we should start the way every other automation wave has started: with the tedious, (mentally) dangerous, and repetitive." ([One Useful Thing][3])
+    * "Rewarding workers for slaying boring tasks with AI could also help streamline operations while making everyone happier." ([One Useful Thing][3])
+
+    ---
+
+    ## 4. AI Delegation: The One Skill You Will Need To Succeed In The Future
+
+    ### Key Quotes
+
+    * "Artificial intelligence (AI) isn't going to replace people – but people who use AI are going to replace people who don't." ([Bernard Marr][4])
+    * "One thing that's quickly becoming apparent is that the key to staying ahead of the curve lies in mastering the concept of AI delegation. Put simply; this means working out what we still need to do for ourselves and what's best left to machines." ([Bernard Marr][4])
+    * "Managers that use AI will replace the managers that do not." ([Bernard Marr][4])
+    * "AI delegation – whether by managers or front-line workers – can vastly increase efficiency by managing routine elements of work such as data entry, processing and analysis, detecting errors, reviewing documents, and scheduling and time management." ([Bernard Marr][4])
+    * "Most importantly, remember that AI is a tool – perhaps the most useful and powerful one that will emerge during our lifetimes. By mastering it and learning to use it effectively, we can enjoy careers that are more productive, interesting, and rewarding." ([Bernard Marr][4])
+
+    ---
+
+    Feel free to weave these directly into your essay to support each of your four pillars.
+
+    [1]: https://medium.com/clinical-research-news/the-relationship-between-boredom-and-laziness-a-paradox-of-human-motivation-b72d082b9059 "The Relationship Between Boredom and Laziness: A Paradox of Human Motivation | by Boris (Bruce) Kriger | CLINICAL RESEARCH NEWS | Medium"
+    [2]: https://bigthink.com/neuropsych/researchers-find-link-between-tolerance-for-boredom-and-level-of-intelligence/ "Researchers Find Link Between Laziness and Intelligence - Big Think"
+    [3]: https://www.oneusefulthing.org/p/in-praise-of-boring-ai "In Praise of Boring AI - by Ethan Mollick"
+    [4]: https://bernardmarr.com/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/ "AI Delegation: The One Skill You Will Need To Succeed In The Future | Bernard Marr"
+
+- Q: |
+    Nice. So let's use our original blueprint:
+
+    * Laziness isn’t sloth; it’s misdirected brilliance with a low boredom threshold:
+
+    - Quote Douglas Hofstadter (via Boris Kriger) with that laziness "drives innovation by prompting people to design tools, processes, and systems that reduce the effort needed to complete tasks."
+    - Pick your way to mention the Journal of Health Psychology study (via Scotty Hendricks) about "NFC" (need for cognition) and its correlation with laziness
+
+    * AI isn’t a job-stealer, it’s an outsourcing intern for the creatively lazy.
+
+    - Our own writing, weaving in naturally in the story
+
+    * Scripting was the old lazy; prompting is the new lazy. Same spirit, shinier tools.
+
+    - Quote Ethan Mollick's article at your choice — the article is basically about the history of automation.
+
+    * And in the era of AI, the throne belongs not to the tireless grinder, but to the cunning delegator.
+
+    - Quote Bernard Marr — same guidelines
+
+    I'm imagining the title "Lazy is the New Black, or How to Stop Worrying and Learn to Love the Prompt"
+
+    Some other guidelines:
+
+    * Approx. 1000 words
+    * Let's give it a good structure (snappities as headlines. e.g. "Scripting was the old lazy, prompting is the new lazy" as the heading for the respective section)
+    * Make sure to make it sound signature Finn, don't get lost in all the data fed above
