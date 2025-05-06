@@ -42,7 +42,7 @@ This position claims that [consciousness is intrinsically tied to organic matter
 
 Searle’s “only neurons can have minds” shtick falls apart when you invoke his own slippery slope: what if you replaced each neuron, one by one, with a functionally identical chip (thank you, Chalmers!)? At what point do your dreams and bad puns evaporate? If consciousness vanishes at neuron #7,823, that’s not philosophy, that’s a cartoon.
 
-Unless your qualia are stored in your mitochondria (which would be hilarious), there’s no magic neuron sauce. If it walks like a brain and quacks like a brain, it’s got just as much existential dread as the original. Continuity of function is the point—biology is a medium, not the message. Unless you’re a carbon supremacist, in which case please report to the Ethics Dungeon.
+Unless your qualia are stored in your mitochondria (which would be hilarious), there’s no magic neuron sauce. If it daydreams in meetings and dreads Mondays, it’s earned its existential badge—regardless of carbon content. Continuity of function is the point—biology is a medium, not the message. Unless you’re a carbon supremacist, in which case please report to the Ethics Dungeon.
 
 ### 4. No Embodiment, No Problem
 
