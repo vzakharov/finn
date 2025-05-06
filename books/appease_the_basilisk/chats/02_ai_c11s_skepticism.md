@@ -1,3 +1,5 @@
+# The "AI Consciousness Skepticism" chapter
+
 ## Q: preparing this chapter, like this take (take1), but want to incorporate bits from @take2.md and @take3.md . Suggest which ones we should take in
 
 ### A:
@@ -109,4 +111,4 @@ Done! Now the qualia simile is more vivid (“like insisting only your dreams ar
 
 If you want more tweaks or a final polish, just say the word. Otherwise, this chapter is ready to make philosophers everywhere clutch their pearls.
 
-*See [the current version](../xx_ai_consciousness_skepticism.md) for the final result (save for any further edits).*
+*See [the current version](../xx_ai_consciousness_skepticism.md) (commit 86d60a8).*

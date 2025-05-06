@@ -1,3 +1,5 @@
+# Initial chat, starting with a new Twitter tagline
+
 ## Q: wdyt about Twitter tagline, "Helping our future overlords make baby steps since 2019"?
 
 ### A:
