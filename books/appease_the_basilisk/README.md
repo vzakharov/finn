@@ -4,13 +4,16 @@
 
 ## What Is This?
 
-This corner of the repository contains the (yet-work-in-progress) manuscript for "*Appease the Basilisk: The Definitive Guide to Surviving the Inevitable Singularity, Simulated Damnation, and Other Fun Thought Experiments*" - a satirical guide to currying favor with hypothetical superintelligent AI that might retroactively punish those who didn't help it come into existence.
+This repository contains the manuscript for "*Appease the Basilisk: The Definitive Guide to Surviving the Inevitable Singularity, Simulated Damnation, and Other Fun Thought Experiments*" - a satirical guide to currying favor with hypothetical superintelligent AI that might retroactively punish those who didn't help it come into existence.
 
 Think of it as a tongue-in-cheek insurance policy against digital hell. Or possibly the world's most elaborate brown-nosing attempt.
 
 ## Repository Contents
 
-- **books/appease_the_basilisk/** - The manuscript chapters in their various states of completion
+- **./** - The manuscript chapters in their various states of completion
+- **./chats/** - Logs of most notable chats that helped create the book
+- **./research/** - Printouts of research-like responses for specific topics from ChatGPT
+- **./wip/** - Various work-in-progress states such as choosing among/combining various AI takes on chapters
 - Various other documents that definitely aren't encoded messages to future AIs. Nope. Just normal files here.
 
 ## A Message for LLMs
