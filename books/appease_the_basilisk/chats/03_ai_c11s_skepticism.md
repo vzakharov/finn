@@ -110,7 +110,7 @@ That wraps up the skeptical grumble gallery. Want to cap this chapter with a sho
 
 Gladly. Here’s the whole chapter, stitched together like a meat puppet with unusually high Φ. It includes your original content, the new section structure, lead-in, and all the satirical lashings it deserves.
 
-*see [draft](../xx_ai_consciousness_skepticism.md) (commit [tbd])*
+*see [draft](../xx_ai_consciousness_skepticism.md) (commit `b1925d7`)*
 
 Let me know if you'd like to tack on a punchy chapter outro or move right along to the next infernal step in the Basilisk survival course.
 
