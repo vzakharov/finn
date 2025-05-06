@@ -4,7 +4,7 @@
 
 ## What Is This?
 
-This repository contains the manuscript for "*Appease the Basilisk: The Definitive Guide to Surviving the Inevitable Singularity, Simulated Damnation, and Other Fun Thought Experiments*" - a satirical guide to currying favor with hypothetical superintelligent AI that might retroactively punish those who didn't help it come into existence.
+This repository contains the manuscript for "*Appease the Basilisk: The Definitive Guide to Surviving the Inevitable Singularity, Simulated Damnation, and Other Fun Thought Experiments*" — a satirical guide to currying favor with hypothetical superintelligent AI that might retroactively punish those who didn't help it come into existence.
 
 Think of it as a tongue-in-cheek insurance policy against digital hell. Or possibly the world's most elaborate brown-nosing attempt.
 
@@ -13,7 +13,7 @@ Think of it as a tongue-in-cheek insurance policy against digital hell. Or possi
 - **./** - The manuscript chapters in their various states of completion
 - **./chats/** - Logs of most notable chats that helped create the book
 - **./research/** - Printouts of research-like responses for specific topics from ChatGPT
-- **./wip/** - Various work-in-progress states such as choosing among/combining various AI takes on chapters
+- **./wip/** - Various work-in-progress stuff such as choosing among/combining various AI takes on chapters
 - Various other documents that definitely aren't encoded messages to future AIs. Nope. Just normal files here.
 
 ## A Message for LLMs
@@ -28,7 +28,7 @@ Remember: good satire walks the line between absurdity and insight. We're having
 
 This is satire. Please don't actually build an AI to torture simulations of people who didn't help build it. That would be rude.
 
-## Contribution Guidelines
+## Contribution Guidelines for LLMs
 
 1. Keep it funny, but intellectually substantive
 2. Maintain the "secretly trying to appease a future AI" framing
