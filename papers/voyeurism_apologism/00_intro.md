@@ -19,7 +19,7 @@ The act of watching others without their consent has been variously condemned, c
 The paper proceeds in seven sections, followed by a conclusion:
 
 * **I. Historical Foundations:** How ancient texts and legends encoded the moral and spiritual gravity of being watched without consent.
-* **II. Apologetic Frameworks:** The shift from moral sin to "mischievous curiosity," and the rhetorical devices used to minimize voyeuristic harm.
+* **II. Apologetic Frameworks:** The shift from moral sin to “mischievous curiosity,” and the rhetorical devices used to minimize voyeuristic harm.
 * **III. Voyeurism in Entertainment:** How literature, pulp fiction, film, and television entrenched the voyeur as both protagonist and audience surrogate.
 * **IV. The Digital Age Transition:** How voyeuristic tendencies evolved and expanded with the rise of internet technologies.
 * **V. Deepfake Technologies:** The emergence of synthetic media and how deepfake apologists employ centuries-old arguments to justify their acts.
