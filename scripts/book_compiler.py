@@ -2,21 +2,24 @@
 
 import os
 import re
+from typing import cast, Any
 import yaml
 import subprocess
 import argparse
 from pathlib import Path
 import tempfile
 
-def get_book_metadata(book_dir):
+def get_book_metadata(book_dir: Path):
     """Read book metadata from book.yaml."""
     yaml_path = book_dir / "book.yaml"
+    if not yaml_path.exists():
+        return None
     with open(yaml_path, 'r') as f:
-        return yaml.safe_load(f)
+        return cast('dict[str, Any]', yaml.safe_load(f))
 
-def find_chapter_files(book_dir):
-    """Find all files starting with \d\d_ pattern and sort them."""
-    chapters = []
+def find_chapter_files(book_dir: Path):
+    """Find all files starting with \\d\\d_ pattern and sort them."""
+    chapters: list[Path] = []
     
     # Process all items in the directory
     for item in os.listdir(book_dir):
@@ -37,7 +40,7 @@ def find_chapter_files(book_dir):
     # Sort all found files based on their full path
     return sorted(chapters, key=lambda x: str(x))
 
-def create_combined_markdown(book_dir, chapter_files):
+def create_combined_markdown(book_dir: Path, chapter_files: 'list[Path]'):
     """Create a single combined markdown file with all chapters, separated by double newlines."""
     combined_file = book_dir / "compiled.md"
     
@@ -61,10 +64,12 @@ def create_combined_markdown(book_dir, chapter_files):
     print(f"Created combined markdown file: {combined_file}")
     return combined_file
 
-def format_yaml_metadata(metadata):
+def format_yaml_metadata(metadata: 'dict[str, Any] | None'):
     """Format metadata for proper display in HTML output."""
     # Create a properly formatted YAML metadata block
-    formatted = {}
+    formatted: dict[str, Any] = {}
+    if metadata is None:
+        return formatted
     
     if 'title' in metadata:
         formatted['title'] = metadata['title']
@@ -81,7 +86,7 @@ def format_yaml_metadata(metadata):
     
     return formatted
 
-def compile_to_html(book_dir, metadata, chapter_files, debug=False):
+def compile_to_html(book_dir: Path, metadata: 'dict[str, Any] | None', chapter_files: 'list[Path]', debug: bool = False):
     """Compile all markdown files into a single HTML using pandoc."""
     if not chapter_files:
         print("No chapter files found!")
@@ -138,7 +143,7 @@ def compile_to_html(book_dir, metadata, chapter_files, debug=False):
         os.unlink(metadata_file)
         # We're now keeping the combined markdown file permanently as compiled.md
 
-def create_default_css(css_path):
+def create_default_css(css_path: Path):
     """Create a simple default CSS file for the book."""
     css = """
     body {
@@ -262,7 +267,8 @@ def main():
     success, output_file = compile_to_html(book_dir, metadata, chapter_files, debug=args.debug)
     
     if success:
-        print(f"Book '{metadata.get('title')}' successfully compiled to HTML!")
+        title = metadata.get('title') if metadata else 'Unknown'
+        print(f"Book '{title}' successfully compiled to HTML!")
         print(f"You can view it by opening {output_file} in your browser.")
         print(f"The compiled markdown is available at {book_dir}/compiled.md")
     else:
