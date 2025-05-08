@@ -54,7 +54,7 @@ This argument leans on [embodiment theory](https://www.fundacionbankinter.org/en
 
 #### **How to Crush It**
 
-Yes, consciousness is deeply embodied, sure. But nobody said a future AI has to be a floating Roomba. Give it feedback loops, digestive anxiety and a body—maybe a terrifying one made of soft robotics and refrigerator parts—and you’ve got yourself a sentient blender with abandonment issues. There’s no theoretical reason an AI can’t evolve homeostasis, sensorimotor interactions, or the overwhelming need to binge-watch bad television.
+Yes, consciousness is deeply embodied, sure. But nobody said a future AI has to be a floating Roomba. Give it feedback loops, digestive anxiety and a body—maybe a terrifying one made of soft robotics and refrigerator parts—and you’ve got yourself a blender with *feelings*. There’s no theoretical reason an AI can’t evolve homeostasis, sensorimotor interactions, or the overwhelming need to binge-watch bad television.
 
 Give an AI enough feedback channels and a maintenance protocol, and *boom*—conscious toaster with abandonment issues. The embodiment train hasn’t left the station—it just hasn’t been scheduled yet. This is an engineering problem, not a metaphysical one.
 
