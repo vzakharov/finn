@@ -12,8 +12,8 @@ In the end, holding **tech accountable** for how it enables abuse goes hand in h
 
 **Sources:**
 
-* Biblical narrative of Susanna illustrating early condemnation of voyeurism.
-* Genesis interpretation of Ham’s sin as voyeurism, indicating ancient taboo on seeing someone naked without consent.
+* Biblical narrative of Susanna illustrating early condemnation of voyeurism: https://www.law.georgetown.edu/american-criminal-law-review/wp-content/uploads/sites/15/2018/04/55-2-To-See-and-Be-Seen-Reconstructing-the-Law-of-Voyeurism-and-Exhibitionism.pdf
+* Genesis interpretation of Ham’s sin as voyeurism, indicating ancient taboo on seeing someone naked without consent: https://cerebralfaith.net/genesis-9-noahs-nakedness-the-sin-of-ham-and-the-curse-of-canaan
 * Legend of Lady Godiva and “Peeping Tom,” showing a cultural motif of punishing the voyeur.
 * Legal history noting that prior to the 20th century, voyeurism wasn’t explicitly criminalized, as it involved no physical contact.
 * Example of dismissive “boys will be boys” attitudes even in modern cases, contrasted with the trauma to victims.
