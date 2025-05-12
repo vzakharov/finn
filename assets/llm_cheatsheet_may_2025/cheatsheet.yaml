@@ -1,0 +1,286 @@
+models:
+  - vendor: "AI21 Labs"
+    model: "Jamba 1.6 Mini"
+    url: "https://www.ai21.com/blog/announcing-jamba-model-family/"
+    parameters: "? / 52"
+    moe: true
+    context: "256k"
+    api: true
+    open_source: true
+    reasoning: false
+    public: true
+    release: "Mar 2025"
+    release_status: "recent"
+
+  - vendor: "AI21 Labs"
+    model: "Jamba 1.6 Large"
+    url: "https://www.ai21.com/blog/announcing-jamba-model-family/"
+    parameters: "94 / 398"
+    moe: true
+    context: "256k"
+    api: true
+    open_source: true
+    reasoning: false
+    public: true
+    release: "Mar 2025"
+    release_status: "recent"
+
+  - vendor: "Anthropic"
+    model: "Claude 3.5 Sonnet"
+    url: "https://www.anthropic.com/news/claude-3-5-sonnet"
+    parameters: "?"
+    moe: "?"
+    context: "200k"
+    api: true
+    open_source: false
+    reasoning: false
+    public: true
+    release: "Jun 2024"
+    release_status: "medium"
+
+  - vendor: "Anthropic"
+    model: "Claude 3.7 Sonnet"
+    url: "https://www.anthropic.com/news/claude-3-7-sonnet"
+    parameters: "?"
+    moe: "?"
+    context: "200k"
+    api: true
+    open_source: false
+    reasoning: true
+    public: true
+    release: "Feb 2025"
+    release_status: "recent"
+
+  - vendor: "Cohere"
+    model: "Command A"
+    url: "https://docs.cohere.com/docs/command-a"
+    parameters: "? / 111"
+    moe: "?"
+    context: "256k"
+    api: true
+    open_source: false
+    reasoning: false
+    public: true
+    release: "Mar 2025"
+    release_status: "recent"
+
+  - vendor: "Cohere"
+    model: "Command R+"
+    url: "https://docs.cohere.com/docs/command-r-plus"
+    parameters: "? / 104"
+    moe: "?"
+    context: "128k"
+    api: true
+    open_source: false
+    reasoning: false
+    public: true
+    release: "Aug 2024"
+    release_status: "medium"
+
+  - vendor: "DeepSeek"
+    model: "DeepSeek LLM"
+    url: "https://huggingface.co/deepseek-ai/deepseek-llm-67b-chat"
+    parameters: "7 / 67"
+    moe: "?"
+    context: "4k"
+    api: true
+    open_source: true
+    reasoning: false
+    public: true
+    release: "Nov 2023"
+    release_status: "medium"
+
+  - vendor: "DeepSeek"
+    model: "DeepSeek-V3"
+    url: "https://api-docs.deepseek.com/news/news250325"
+    parameters: "37 / 671"
+    moe: "?"
+    context: "128k"
+    api: true
+    open_source: false
+    reasoning: true
+    public: true
+    release: "Mar 2025"
+    release_status: "recent"
+
+  - vendor: "Google"
+    model: "Gemini 2.5 Pro"
+    url: "https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/"
+    parameters: "?"
+    moe: "?"
+    context: "1M"
+    api: true
+    open_source: false
+    reasoning: true
+    public: "limited"
+    release: "Mar 2025"
+    release_status: "recent"
+
+  - vendor: "Meta"
+    model: "Llama 3.1"
+    url: "https://ai.meta.com/blog/meta-llama-3-1/"
+    parameters: "? / 405"
+    moe: "?"
+    context: "128k"
+    api: true
+    open_source: true
+    reasoning: false
+    public: true
+    release: "Jul 2024"
+    release_status: "medium"
+
+  - vendor: "Meta"
+    model: "Llama 4 Scout"
+    url: "https://ai.meta.com/blog/llama-4-multimodal-intelligence/"
+    parameters: "? / 109"
+    moe: 16
+    context: "10M"
+    api: true
+    open_source: true
+    reasoning: false
+    public: true
+    release: "Apr 2025"
+    release_status: "recent"
+
+  - vendor: "Meta"
+    model: "Llama 4 Maverick"
+    url: "https://ai.meta.com/blog/llama-4-multimodal-intelligence/"
+    parameters: "? / 400"
+    moe: 128
+    context: "1M"
+    api: true
+    open_source: true
+    reasoning: false
+    public: true
+    release: "Apr 2025"
+    release_status: "recent"
+
+  - vendor: "Mistral"
+    model: "Mistral Large"
+    url: "https://mistral.ai/news/mistral-large-2407/"
+    parameters: "?"
+    moe: "?"
+    context: "128k"
+    api: true
+    open_source: false
+    reasoning: false
+    public: true
+    release: "Jul 2024"
+    release_status: "medium"
+
+  - vendor: "Mistral"
+    model: "Mixtral 8×22B"
+    url: "https://mistral.ai/news/mixtral-8x22b/"
+    parameters: "? / 141"
+    moe: "?"
+    context: "65k"
+    api: true
+    open_source: true
+    reasoning: false
+    public: true
+    release: "Apr 2024"
+    release_status: "medium"
+
+  - vendor: "MosaicML"
+    model: "MPT-30B"
+    url: "https://huggingface.co/mosaicml/mpt-30b"
+    parameters: "30 / 30"
+    moe: "?"
+    context: "8k"
+    api: true
+    open_source: true
+    reasoning: false
+    public: true
+    release: "Jun 2023"
+    release_status: "old"
+
+  - vendor: "OpenAI"
+    model: "GPT-4.1"
+    url: "https://openai.com/blog/gpt-4-1"
+    parameters: "?"
+    moe: "?"
+    context: "1M"
+    api: true
+    open_source: false
+    reasoning: false
+    public: "limited"
+    release: "Apr 2025"
+    release_status: "recent"
+
+  - vendor: "OpenAI"
+    model: "GPT-4o"
+    url: "https://openai.com/blog/hello-gpt-4o/"
+    parameters: "?"
+    moe: "?"
+    context: "128k"
+    api: true
+    open_source: false
+    reasoning: false
+    public: true
+    release: "May 2024"
+    release_status: "recent"
+
+  - vendor: "OpenAI"
+    model: "o1"
+    url: "https://openai.com/o1"
+    parameters: "?"
+    moe: "?"
+    context: "128k"
+    api: true
+    open_source: false
+    reasoning: true
+    public: "limited"
+    release: "Sep 2024"
+    release_status: "medium"
+
+  - vendor: "OpenAI"
+    model: "o3"
+    url: "https://openai.com/blog/introducing-o3-and-o4-mini"
+    parameters: "?"
+    moe: "?"
+    context: "128k"
+    api: true
+    open_source: false
+    reasoning: true
+    public: "limited"
+    release: "Apr 2025"
+    release_status: "recent"
+
+  - vendor: "OpenAI"
+    model: "o3-mini"
+    url: "https://openai.com/blog/introducing-o3-mini"
+    parameters: "?"
+    moe: "?"
+    context: "200k"
+    api: true
+    open_source: false
+    reasoning: true
+    public: "limited"
+    release: "Jan 2025"
+    release_status: "medium"
+
+  - vendor: "OpenAI"
+    model: "o4-mini"
+    url: "https://openai.com/blog/introducing-o3-and-o4-mini"
+    parameters: "?"
+    moe: "?"
+    context: "128k"
+    api: true
+    open_source: false
+    reasoning: true
+    public: "limited"
+    release: "Apr 2025"
+    release_status: "recent"
+
+  - vendor: "Stability AI"
+    model: "StableLM-Alpha"
+    url: "https://stability.ai/news/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models"
+    parameters: "7 / 7"
+    moe: "?"
+    context: "4k"
+    api: true
+    open_source: true
+    reasoning: false
+    public: true
+    release: "Apr 2023"
+    release_status: "old" 

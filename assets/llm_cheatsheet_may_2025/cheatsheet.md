@@ -1,6 +1,7 @@
-| Vendor       | Model                                       | Parameters         | MoE | Context | API | Open Source | Reasoning | Public | Release     |
+| Vendor       | Model                                       | Parameters (active / total)        | MoE | Context | API | Open Source | Reasoning | Public | Release     |
 |--------------|----------------------------------------------|---------------------|-----|---------|-----|--------------|------------|--------|--------------|
-| AI21 Labs    | [Jurassic-2](https://www.ai21.com/blog/introducing-j2)         | ?                   | ?   | 8k      | ✅  | ❌           | ❌         | ✅     | 🩶 Mar 2023 |
+| AI21 Labs    | [Jamba 1.6 Mini](https://www.ai21.com/blog/announcing-jamba-model-family/)  | ? / 52                   | ✅   | 256k    | ✅  | ✅           | ❌         | ✅     | 🟩 Mar 2025 |
+| AI21 Labs    | [Jamba 1.6 Large](https://www.ai21.com/blog/announcing-jamba-model-family/)  | 94 / 398                   | ✅   | 256k    | ✅  | ✅           | ❌         | ✅     | 🟩 Mar 2025 |
 | Anthropic    | [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet) | ? | ?   | 200k    | ✅  | ❌           | ❌         | ✅     | 🟧 Jun 2024 |
 | Anthropic    | [Claude 3.7 Sonnet](https://www.anthropic.com/news/claude-3-7-sonnet) | ? | ?   | 200k    | ✅  | ❌           | ✅         | ✅     | 🟩 Feb 2025 |
 | Cohere       | [Command R+](https://docs.cohere.com/docs/command-r-plus)       | 104 / 104           | ?   | 128k    | ✅  | ❌           | ❌         | ✅     | 🟧 Aug 2024 |
