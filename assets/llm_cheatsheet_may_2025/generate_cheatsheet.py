@@ -1,18 +1,17 @@
 #!/usr/bin/env python3
 import yaml
 import os
-from datetime import datetime
-from typing import Dict, List, Any
+from typing import Any
 
-def load_yaml_data(yaml_path: str) -> Dict[str, Any]:
+def load_yaml_data(yaml_path: str):
     with open(yaml_path, 'r', encoding='utf-8') as file:
         return yaml.safe_load(file)
 
-def generate_markdown(models: List[Dict[str, Any]], output_path: str) -> None:
+def generate_markdown(models: 'list[dict[str, Any]]', output_path: str):
     md_header = "| Vendor | Model | Parameters (active / total) | Context | API | Open Source | Reasoning | Public | Release |\n"
     md_separator = "|--------|-------|---------------------------|---------|-----|-------------|-----------|--------|----------|\n"
     
-    rows = []
+    rows: list[str] = []
     for model in models:
         vendor = model['vendor']
         model_name = model['model']
@@ -56,7 +55,7 @@ def generate_markdown(models: List[Dict[str, Any]], output_path: str) -> None:
         # Add source line at the end
         md_file.write("\n\nSource: [AI.I, Motherfuckers!](dub.sh/aimofos)\n")
 
-def generate_html(models: List[Dict[str, Any]], output_path: str) -> None:
+def generate_html(models: 'list[dict[str, Any]]', output_path: str) -> None:
     html_start = """<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -124,7 +123,7 @@ def generate_html(models: List[Dict[str, Any]], output_path: str) -> None:
         <tbody>
 """
     
-    html_rows = []
+    html_rows: list[str] = []
     for model in models:
         vendor = model['vendor']
         model_name = model['model']
