@@ -1,13 +1,37 @@
 #!/usr/bin/env python3
 import yaml
 import os
+from datetime import datetime, date
 from typing import Any
 
 def load_yaml_data(yaml_path: str):
     with open(yaml_path, 'r', encoding='utf-8') as file:
         return yaml.safe_load(file)
 
-def generate_markdown(models: 'list[dict[str, Any]]', output_path: str):
+def parse_release_date(release_date_str: str):
+    """Parse a release date in the format 'MMM YYYY'"""
+    try:
+        return datetime.strptime(release_date_str, "%b %Y").date()
+    except ValueError:
+        # Default to old date if parsing fails
+        return date(2000, 1, 1)
+
+def get_release_status(release_date_str: str):
+    """Calculate the release status based on date"""
+    today = date.today()
+    release_date = parse_release_date(release_date_str)
+    
+    # Calculate months since release
+    months_diff = (today.year - release_date.year) * 12 + today.month - release_date.month
+    
+    if months_diff < 6:
+        return "recent"
+    elif months_diff < 12:
+        return "medium"
+    else:
+        return "old"
+
+def generate_markdown(models: list[dict[str, Any]], output_path: str):
     md_header = "| Vendor | Model | Parameters (active / total) | Context | API | Open Source | Reasoning | Public | Release |\n"
     md_separator = "|--------|-------|---------------------------|---------|-----|-------------|-----------|--------|----------|\n"
     
@@ -30,20 +54,21 @@ def generate_markdown(models: 'list[dict[str, Any]]', output_path: str):
             public = "❌"
         
         release = model['release']
-        release_status = model['release_status']
         
-        # Add color indicator based on release status
+        # Get status based on date instead of using the field from YAML
+        release_status = get_release_status(release)
+        
+        # Color coding for release recency in markdown
         if release_status == "recent":
-            release_indicator = "🟩"
+            release_colored = f"<span style='color:green'>{release}</span>"
         elif release_status == "medium":
-            release_indicator = "🟧"
+            release_colored = f"<span style='color:orange'>{release}</span>"
         else:
-            release_indicator = "🩶"
+            release_colored = f"<span style='color:gray'>{release}</span>"
         
         model_link = f"[{model_name}]({model_url})"
-        release_with_indicator = f"{release_indicator} {release}"
         
-        row = f"| {vendor} | {model_link} | {parameters} | {context} | {api} | {open_source} | {reasoning} | {public} | {release_with_indicator} |\n"
+        row = f"| {vendor} | {model_link} | {parameters} | {context} | {api} | {open_source} | {reasoning} | {public} | {release_colored} |\n"
         rows.append(row)
     
     with open(output_path, 'w', encoding='utf-8') as md_file:
@@ -53,9 +78,9 @@ def generate_markdown(models: 'list[dict[str, Any]]', output_path: str):
             md_file.write(row)
         
         # Add source line at the end
-        md_file.write("\n\nSource: [AI.I, Motherfuckers!](dub.sh/aimofos)\n")
+        md_file.write("\n\nSource: [A.I., Motherfuckers!](https://dub.sh/aimofos)\n")
 
-def generate_html(models: 'list[dict[str, Any]]', output_path: str) -> None:
+def generate_html(models: list[dict[str, Any]], output_path: str):
     html_start = """<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -67,6 +92,7 @@ def generate_html(models: 'list[dict[str, Any]]', output_path: str) -> None:
             font-family: Arial, sans-serif;
             margin: 20px;
             color: #333;
+            font-size: 11px;
         }
         table {
             border-collapse: collapse;
@@ -74,19 +100,20 @@ def generate_html(models: 'list[dict[str, Any]]', output_path: str) -> None:
             margin-bottom: 20px;
         }
         th {
-            background-color: #a83232;
-            color: white;
-            padding: 10px;
+            background-color: #a83232 !important;
+            color: white !important;
+            padding: 6px;
             text-align: left;
+            font-weight: bold;
         }
         tr:nth-child(even) {
-            background-color: #ffe6e6;
+            background-color: #ffe6e6 !important;
         }
         tr:nth-child(odd) {
-            background-color: #fff0f0;
+            background-color: #fff0f0 !important;
         }
         td {
-            padding: 8px;
+            padding: 4px;
             border: 1px solid #ddd;
         }
         a {
@@ -98,9 +125,56 @@ def generate_html(models: 'list[dict[str, Any]]', output_path: str) -> None:
         }
         .source {
             font-size: 0.8em;
-            margin-top: 20px;
+            margin-top: 10px;
             text-align: right;
             color: #888;
+        }
+        .recent {
+            color: green !important;
+            font-weight: bold;
+        }
+        .medium {
+            color: orange !important;
+        }
+        .old {
+            color: gray !important;
+        }
+        @media print {
+            body {
+                font-size: 9px;
+                margin: 0;
+                padding: 0;
+            }
+            th {
+                background-color: #a83232 !important;
+                color: white !important;
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+            }
+            tr:nth-child(even) {
+                background-color: #ffe6e6 !important;
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+            }
+            tr:nth-child(odd) {
+                background-color: #fff0f0 !important;
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+            }
+            .recent, .medium, .old {
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+            }
+            td {
+                padding: 3px;
+            }
+            h1 {
+                font-size: 14px;
+                margin: 5px 0;
+            }
+            .source {
+                font-size: 7px;
+            }
         }
     </style>
 </head>
@@ -111,12 +185,12 @@ def generate_html(models: 'list[dict[str, Any]]', output_path: str) -> None:
             <tr>
                 <th>Vendor</th>
                 <th>Model</th>
-                <th>Parameters (active / total)</th>
+                <th>Parameters</th>
                 <th>Context</th>
                 <th>API</th>
-                <th>Open Source</th>
-                <th>Reasoning</th>
-                <th>Public</th>
+                <th>OS</th>
+                <th>Reas</th>
+                <th>Pub</th>
                 <th>Release</th>
             </tr>
         </thead>
@@ -142,18 +216,11 @@ def generate_html(models: 'list[dict[str, Any]]', output_path: str) -> None:
             public = "❌"
         
         release = model['release']
-        release_status = model['release_status']
         
-        # Add color indicator based on release status
-        if release_status == "recent":
-            release_indicator = "🟩"
-        elif release_status == "medium":
-            release_indicator = "🟧"
-        else:
-            release_indicator = "🩶"
+        # Calculate status based on date
+        release_status = get_release_status(release)
         
         model_link = f'<a href="{model_url}" target="_blank">{model_name}</a>'
-        release_with_indicator = f"{release_indicator} {release}"
         
         row = f"""            <tr>
                 <td>{vendor}</td>
@@ -164,14 +231,14 @@ def generate_html(models: 'list[dict[str, Any]]', output_path: str) -> None:
                 <td>{open_source}</td>
                 <td>{reasoning}</td>
                 <td>{public}</td>
-                <td>{release_with_indicator}</td>
+                <td class="{release_status}">{release}</td>
             </tr>
 """
         html_rows.append(row)
     
     html_end = """        </tbody>
     </table>
-    <div class="source">Source: <a href="dub.sh/aimofos" target="_blank">AI.I, Motherfuckers!</a></div>
+    <div class="source">Source: <a href="https://dub.sh/aimofos" target="_blank">A.I., Motherfuckers!</a></div>
 </body>
 </html>
 """
@@ -182,7 +249,7 @@ def generate_html(models: 'list[dict[str, Any]]', output_path: str) -> None:
             html_file.write(row)
         html_file.write(html_end)
 
-def main() -> None:
+def main():
     current_dir = os.path.dirname(os.path.abspath(__file__))
     yaml_path = os.path.join(current_dir, 'cheatsheet.yaml')
     md_output = os.path.join(current_dir, 'cheatsheet.md')

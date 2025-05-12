@@ -9,6 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 20px;
             color: #333;
+            font-size: 11px;
         }
         table {
             border-collapse: collapse;
@@ -16,19 +17,20 @@
             margin-bottom: 20px;
         }
         th {
-            background-color: #a83232;
-            color: white;
-            padding: 10px;
+            background-color: #a83232 !important;
+            color: white !important;
+            padding: 6px;
             text-align: left;
+            font-weight: bold;
         }
         tr:nth-child(even) {
-            background-color: #ffe6e6;
+            background-color: #ffe6e6 !important;
         }
         tr:nth-child(odd) {
-            background-color: #fff0f0;
+            background-color: #fff0f0 !important;
         }
         td {
-            padding: 8px;
+            padding: 4px;
             border: 1px solid #ddd;
         }
         a {
@@ -40,9 +42,56 @@
         }
         .source {
             font-size: 0.8em;
-            margin-top: 20px;
+            margin-top: 10px;
             text-align: right;
             color: #888;
+        }
+        .recent {
+            color: green !important;
+            font-weight: bold;
+        }
+        .medium {
+            color: orange !important;
+        }
+        .old {
+            color: gray !important;
+        }
+        @media print {
+            body {
+                font-size: 9px;
+                margin: 0;
+                padding: 0;
+            }
+            th {
+                background-color: #a83232 !important;
+                color: white !important;
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+            }
+            tr:nth-child(even) {
+                background-color: #ffe6e6 !important;
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+            }
+            tr:nth-child(odd) {
+                background-color: #fff0f0 !important;
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+            }
+            .recent, .medium, .old {
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+            }
+            td {
+                padding: 3px;
+            }
+            h1 {
+                font-size: 14px;
+                margin: 5px 0;
+            }
+            .source {
+                font-size: 7px;
+            }
         }
     </style>
 </head>
@@ -53,12 +102,12 @@
             <tr>
                 <th>Vendor</th>
                 <th>Model</th>
-                <th>Parameters (active / total)</th>
+                <th>Parameters</th>
                 <th>Context</th>
                 <th>API</th>
-                <th>Open Source</th>
-                <th>Reasoning</th>
-                <th>Public</th>
+                <th>OS</th>
+                <th>Reas</th>
+                <th>Pub</th>
                 <th>Release</th>
             </tr>
         </thead>
@@ -72,7 +121,7 @@
                 <td>✅</td>
                 <td>❌</td>
                 <td>✅</td>
-                <td>🟩 Mar 2025</td>
+                <td class="recent">Mar 2025</td>
             </tr>
             <tr>
                 <td>AI21 Labs</td>
@@ -83,7 +132,7 @@
                 <td>✅</td>
                 <td>❌</td>
                 <td>✅</td>
-                <td>🟩 Mar 2025</td>
+                <td class="recent">Mar 2025</td>
             </tr>
             <tr>
                 <td>Anthropic</td>
@@ -94,7 +143,7 @@
                 <td>❌</td>
                 <td>❌</td>
                 <td>✅</td>
-                <td>🟧 Jun 2024</td>
+                <td class="medium">Jun 2024</td>
             </tr>
             <tr>
                 <td>Anthropic</td>
@@ -105,7 +154,7 @@
                 <td>❌</td>
                 <td>✅</td>
                 <td>✅</td>
-                <td>🟩 Feb 2025</td>
+                <td class="recent">Feb 2025</td>
             </tr>
             <tr>
                 <td>Cohere</td>
@@ -116,7 +165,7 @@
                 <td>❌</td>
                 <td>❌</td>
                 <td>✅</td>
-                <td>🟩 Mar 2025</td>
+                <td class="recent">Mar 2025</td>
             </tr>
             <tr>
                 <td>Cohere</td>
@@ -127,7 +176,7 @@
                 <td>❌</td>
                 <td>❌</td>
                 <td>✅</td>
-                <td>🟧 Aug 2024</td>
+                <td class="medium">Aug 2024</td>
             </tr>
             <tr>
                 <td>DeepSeek</td>
@@ -138,7 +187,7 @@
                 <td>✅</td>
                 <td>❌</td>
                 <td>✅</td>
-                <td>🟧 Nov 2023</td>
+                <td class="old">Nov 2023</td>
             </tr>
             <tr>
                 <td>DeepSeek</td>
@@ -149,7 +198,7 @@
                 <td>❌</td>
                 <td>✅</td>
                 <td>✅</td>
-                <td>🟩 Mar 2025</td>
+                <td class="recent">Mar 2025</td>
             </tr>
             <tr>
                 <td>Google</td>
@@ -160,7 +209,7 @@
                 <td>❌</td>
                 <td>✅</td>
                 <td>🚧</td>
-                <td>🟩 Mar 2025</td>
+                <td class="recent">Mar 2025</td>
             </tr>
             <tr>
                 <td>Meta</td>
@@ -171,7 +220,7 @@
                 <td>✅</td>
                 <td>❌</td>
                 <td>✅</td>
-                <td>🟧 Jul 2024</td>
+                <td class="medium">Jul 2024</td>
             </tr>
             <tr>
                 <td>Meta</td>
@@ -182,7 +231,7 @@
                 <td>✅</td>
                 <td>❌</td>
                 <td>✅</td>
-                <td>🟩 Apr 2025</td>
+                <td class="recent">Apr 2025</td>
             </tr>
             <tr>
                 <td>Meta</td>
@@ -193,7 +242,7 @@
                 <td>✅</td>
                 <td>❌</td>
                 <td>✅</td>
-                <td>🟩 Apr 2025</td>
+                <td class="recent">Apr 2025</td>
             </tr>
             <tr>
                 <td>Mistral</td>
@@ -204,7 +253,7 @@
                 <td>❌</td>
                 <td>❌</td>
                 <td>✅</td>
-                <td>🟧 Jul 2024</td>
+                <td class="medium">Jul 2024</td>
             </tr>
             <tr>
                 <td>Mistral</td>
@@ -215,7 +264,7 @@
                 <td>✅</td>
                 <td>❌</td>
                 <td>✅</td>
-                <td>🟧 Apr 2024</td>
+                <td class="old">Apr 2024</td>
             </tr>
             <tr>
                 <td>MosaicML</td>
@@ -226,7 +275,7 @@
                 <td>✅</td>
                 <td>❌</td>
                 <td>✅</td>
-                <td>🩶 Jun 2023</td>
+                <td class="old">Jun 2023</td>
             </tr>
             <tr>
                 <td>OpenAI</td>
@@ -237,7 +286,7 @@
                 <td>❌</td>
                 <td>❌</td>
                 <td>🚧</td>
-                <td>🟩 Apr 2025</td>
+                <td class="recent">Apr 2025</td>
             </tr>
             <tr>
                 <td>OpenAI</td>
@@ -248,7 +297,7 @@
                 <td>❌</td>
                 <td>❌</td>
                 <td>✅</td>
-                <td>🟩 May 2024</td>
+                <td class="old">May 2024</td>
             </tr>
             <tr>
                 <td>OpenAI</td>
@@ -259,7 +308,7 @@
                 <td>❌</td>
                 <td>✅</td>
                 <td>🚧</td>
-                <td>🟧 Sep 2024</td>
+                <td class="medium">Sep 2024</td>
             </tr>
             <tr>
                 <td>OpenAI</td>
@@ -270,7 +319,7 @@
                 <td>❌</td>
                 <td>✅</td>
                 <td>🚧</td>
-                <td>🟩 Apr 2025</td>
+                <td class="recent">Apr 2025</td>
             </tr>
             <tr>
                 <td>OpenAI</td>
@@ -281,7 +330,7 @@
                 <td>❌</td>
                 <td>✅</td>
                 <td>🚧</td>
-                <td>🟧 Jan 2025</td>
+                <td class="recent">Jan 2025</td>
             </tr>
             <tr>
                 <td>OpenAI</td>
@@ -292,7 +341,7 @@
                 <td>❌</td>
                 <td>✅</td>
                 <td>🚧</td>
-                <td>🟩 Apr 2025</td>
+                <td class="recent">Apr 2025</td>
             </tr>
             <tr>
                 <td>Stability AI</td>
@@ -303,10 +352,10 @@
                 <td>✅</td>
                 <td>❌</td>
                 <td>✅</td>
-                <td>🩶 Apr 2023</td>
+                <td class="old">Apr 2023</td>
             </tr>
         </tbody>
     </table>
-    <div class="source">Source: <a href="dub.sh/aimofos" target="_blank">AI.I, Motherfuckers!</a></div>
+    <div class="source">Source: <a href="https://dub.sh/aimofos" target="_blank">A.I., Motherfuckers!</a></div>
 </body>
 </html>
