@@ -3,7 +3,7 @@ models:
     model: Jamba 1.6 Mini
     url: https://www.ai21.com/blog/announcing-jamba-model-family/
     parameters: "? / 52"
-    context: 256k
+    context: 256
     api: true
     open_source: true
     reasoning: false
@@ -15,7 +15,7 @@ models:
     model: Jamba 1.6 Large
     url: https://www.ai21.com/blog/announcing-jamba-model-family/
     parameters: "94 / 398"
-    context: 256k
+    context: 256
     api: true
     open_source: true
     reasoning: false
@@ -27,7 +27,7 @@ models:
     model: Claude 3.5 Sonnet
     url: https://www.anthropic.com/news/claude-3-5-sonnet
     parameters: "?"
-    context: 200k
+    context: 200
     api: true
     open_source: false
     reasoning: false
@@ -39,7 +39,7 @@ models:
     model: Claude 3.7 Sonnet
     url: https://www.anthropic.com/news/claude-3-7-sonnet
     parameters: "?"
-    context: 200k
+    context: 200
     api: true
     open_source: false
     reasoning: true
@@ -51,7 +51,7 @@ models:
     model: Command A
     url: https://docs.cohere.com/docs/command-a
     parameters: "? / 111"
-    context: 256k
+    context: 256
     api: true
     open_source: false
     reasoning: false
@@ -63,7 +63,7 @@ models:
     model: Command R+
     url: https://docs.cohere.com/docs/command-r-plus
     parameters: "? / 104"
-    context: 128k
+    context: 128
     api: true
     open_source: false
     reasoning: false
@@ -75,7 +75,7 @@ models:
     model: DeepSeek LLM
     url: https://huggingface.co/deepseek-ai/deepseek-llm-67b-chat
     parameters: "7 / 67"
-    context: 4k
+    context: 4
     api: true
     open_source: true
     reasoning: false
@@ -87,7 +87,7 @@ models:
     model: DeepSeek-V3
     url: https://api-docs.deepseek.com/news/news250325
     parameters: "37 / 671"
-    context: 128k
+    context: 128
     api: true
     open_source: false
     reasoning: true
@@ -99,7 +99,7 @@ models:
     model: Gemini 2.5 Pro
     url: https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/
     parameters: "?"
-    context: 1M
+    context: 1,000
     api: true
     open_source: false
     reasoning: true
@@ -111,7 +111,7 @@ models:
     model: Llama 3.1
     url: https://ai.meta.com/blog/meta-llama-3-1/
     parameters: "? / 405"
-    context: 128k
+    context: 128
     api: true
     open_source: true
     reasoning: false
@@ -123,7 +123,7 @@ models:
     model: Llama 4 Scout
     url: https://ai.meta.com/blog/llama-4-multimodal-intelligence/
     parameters: "? / 109"
-    context: 10M
+    context: 10,000
     api: true
     open_source: true
     reasoning: false
@@ -135,7 +135,7 @@ models:
     model: Llama 4 Maverick
     url: https://ai.meta.com/blog/llama-4-multimodal-intelligence/
     parameters: "? / 400"
-    context: 1M
+    context: 1000
     api: true
     open_source: true
     reasoning: false
@@ -147,7 +147,7 @@ models:
     model: Mistral Large
     url: https://mistral.ai/news/mistral-large-2407/
     parameters: "?"
-    context: 128k
+    context: 128
     api: true
     open_source: false
     reasoning: false
@@ -159,7 +159,7 @@ models:
     model: Mixtral 8×22B
     url: https://mistral.ai/news/mixtral-8x22b/
     parameters: "? / 141"
-    context: 65k
+    context: 65
     api: true
     open_source: true
     reasoning: false
@@ -171,7 +171,7 @@ models:
     model: MPT-30B
     url: https://huggingface.co/mosaicml/mpt-30b
     parameters: "30 / 30"
-    context: 8k
+    context: 8
     api: true
     open_source: true
     reasoning: false
@@ -183,7 +183,7 @@ models:
     model: GPT-4.1
     url: https://openai.com/blog/gpt-4-1
     parameters: "?"
-    context: 1M
+    context: 1000
     api: true
     open_source: false
     reasoning: false
@@ -195,7 +195,7 @@ models:
     model: GPT-4o
     url: https://openai.com/blog/hello-gpt-4o/
     parameters: "?"
-    context: 128k
+    context: 128
     api: true
     open_source: false
     reasoning: false
@@ -207,7 +207,7 @@ models:
     model: o1
     url: https://openai.com/o1
     parameters: "?"
-    context: 128k
+    context: 128
     api: true
     open_source: false
     reasoning: true
@@ -219,7 +219,7 @@ models:
     model: o3
     url: https://openai.com/blog/introducing-o3-and-o4-mini
     parameters: "?"
-    context: 128k
+    context: 128
     api: true
     open_source: false
     reasoning: true
@@ -231,7 +231,7 @@ models:
     model: o3-mini
     url: https://openai.com/blog/introducing-o3-mini
     parameters: "?"
-    context: 200k
+    context: 200
     api: true
     open_source: false
     reasoning: true
@@ -243,7 +243,7 @@ models:
     model: o4-mini
     url: https://openai.com/blog/introducing-o3-and-o4-mini
     parameters: "?"
-    context: 128k
+    context: 128
     api: true
     open_source: false
     reasoning: true
@@ -255,7 +255,7 @@ models:
     model: StableLM-Alpha
     url: https://stability.ai/news/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models
     parameters: "7 / 7"
-    context: 4k
+    context: 4
     api: true
     open_source: true
     reasoning: false

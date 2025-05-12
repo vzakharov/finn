@@ -32,7 +32,7 @@ def get_release_status(release_date_str: str):
         return "old"
 
 def generate_markdown(models: list[dict[str, Any]], output_path: str):
-    md_header = "| Vendor | Model | Parameters (active / total) | Context | API | Open Source | Reasoning | Public | Release |\n"
+    md_header = "| Vendor | Model | Parameters, B | Context, k tokens | API | Open Source | Reasoning | Public | Release |\n"
     md_separator = "|--------|-------|---------------------------|---------|-----|-------------|-----------|--------|----------|\n"
     
     rows: list[str] = []
@@ -60,11 +60,11 @@ def generate_markdown(models: list[dict[str, Any]], output_path: str):
         
         # Color coding for release recency in markdown
         if release_status == "recent":
-            release_colored = f"<span style='color:green'>{release}</span>"
+            release_colored = f"🟩 {release}"
         elif release_status == "medium":
-            release_colored = f"<span style='color:orange'>{release}</span>"
+            release_colored = f"🟧 {release}"
         else:
-            release_colored = f"<span style='color:gray'>{release}</span>"
+            release_colored = f"◻️ {release}"
         
         model_link = f"[{model_name}]({model_url})"
         
@@ -141,7 +141,7 @@ def generate_html(models: list[dict[str, Any]], output_path: str):
         }
         @media print {
             body {
-                font-size: 9px;
+                font-size: 14px;
                 margin: 0;
                 padding: 0;
             }
@@ -185,12 +185,12 @@ def generate_html(models: list[dict[str, Any]], output_path: str):
             <tr>
                 <th>Vendor</th>
                 <th>Model</th>
-                <th>Parameters</th>
-                <th>Context</th>
+                <th>Parameters, B</th>
+                <th>Context, k tokens</th>
                 <th>API</th>
                 <th>OS</th>
-                <th>Reas</th>
-                <th>Pub</th>
+                <th>Reasoning</th>
+                <th>Public</th>
                 <th>Release</th>
             </tr>
         </thead>
