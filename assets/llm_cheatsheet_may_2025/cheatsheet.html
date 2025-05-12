@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LLM Cheatsheet May 2025</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            color: #333;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        th {
+            background-color: #a83232;
+            color: white;
+            padding: 10px;
+            text-align: left;
+        }
+        tr:nth-child(even) {
+            background-color: #ffe6e6;
+        }
+        tr:nth-child(odd) {
+            background-color: #fff0f0;
+        }
+        td {
+            padding: 8px;
+            border: 1px solid #ddd;
+        }
+        a {
+            color: #a83232;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .source {
+            font-size: 0.8em;
+            margin-top: 20px;
+            text-align: right;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <h1>LLM Cheatsheet - May 2025</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Vendor</th>
+                <th>Model</th>
+                <th>Parameters (active / total)</th>
+                <th>Context</th>
+                <th>API</th>
+                <th>Open Source</th>
+                <th>Reasoning</th>
+                <th>Public</th>
+                <th>Release</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>AI21 Labs</td>
+                <td><a href="https://www.ai21.com/blog/announcing-jamba-model-family/" target="_blank">Jamba 1.6 Mini</a></td>
+                <td>? / 52</td>
+                <td>256k</td>
+                <td>✅</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🟩 Mar 2025</td>
+            </tr>
+            <tr>
+                <td>AI21 Labs</td>
+                <td><a href="https://www.ai21.com/blog/announcing-jamba-model-family/" target="_blank">Jamba 1.6 Large</a></td>
+                <td>94 / 398</td>
+                <td>256k</td>
+                <td>✅</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🟩 Mar 2025</td>
+            </tr>
+            <tr>
+                <td>Anthropic</td>
+                <td><a href="https://www.anthropic.com/news/claude-3-5-sonnet" target="_blank">Claude 3.5 Sonnet</a></td>
+                <td>?</td>
+                <td>200k</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🟧 Jun 2024</td>
+            </tr>
+            <tr>
+                <td>Anthropic</td>
+                <td><a href="https://www.anthropic.com/news/claude-3-7-sonnet" target="_blank">Claude 3.7 Sonnet</a></td>
+                <td>?</td>
+                <td>200k</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>✅</td>
+                <td>🟩 Feb 2025</td>
+            </tr>
+            <tr>
+                <td>Cohere</td>
+                <td><a href="https://docs.cohere.com/docs/command-a" target="_blank">Command A</a></td>
+                <td>? / 111</td>
+                <td>256k</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🟩 Mar 2025</td>
+            </tr>
+            <tr>
+                <td>Cohere</td>
+                <td><a href="https://docs.cohere.com/docs/command-r-plus" target="_blank">Command R+</a></td>
+                <td>? / 104</td>
+                <td>128k</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🟧 Aug 2024</td>
+            </tr>
+            <tr>
+                <td>DeepSeek</td>
+                <td><a href="https://huggingface.co/deepseek-ai/deepseek-llm-67b-chat" target="_blank">DeepSeek LLM</a></td>
+                <td>7 / 67</td>
+                <td>4k</td>
+                <td>✅</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🟧 Nov 2023</td>
+            </tr>
+            <tr>
+                <td>DeepSeek</td>
+                <td><a href="https://api-docs.deepseek.com/news/news250325" target="_blank">DeepSeek-V3</a></td>
+                <td>37 / 671</td>
+                <td>128k</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>✅</td>
+                <td>🟩 Mar 2025</td>
+            </tr>
+            <tr>
+                <td>Google</td>
+                <td><a href="https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/" target="_blank">Gemini 2.5 Pro</a></td>
+                <td>?</td>
+                <td>1M</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🚧</td>
+                <td>🟩 Mar 2025</td>
+            </tr>
+            <tr>
+                <td>Meta</td>
+                <td><a href="https://ai.meta.com/blog/meta-llama-3-1/" target="_blank">Llama 3.1</a></td>
+                <td>? / 405</td>
+                <td>128k</td>
+                <td>✅</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🟧 Jul 2024</td>
+            </tr>
+            <tr>
+                <td>Meta</td>
+                <td><a href="https://ai.meta.com/blog/llama-4-multimodal-intelligence/" target="_blank">Llama 4 Scout</a></td>
+                <td>? / 109</td>
+                <td>10M</td>
+                <td>✅</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🟩 Apr 2025</td>
+            </tr>
+            <tr>
+                <td>Meta</td>
+                <td><a href="https://ai.meta.com/blog/llama-4-multimodal-intelligence/" target="_blank">Llama 4 Maverick</a></td>
+                <td>? / 400</td>
+                <td>1M</td>
+                <td>✅</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🟩 Apr 2025</td>
+            </tr>
+            <tr>
+                <td>Mistral</td>
+                <td><a href="https://mistral.ai/news/mistral-large-2407/" target="_blank">Mistral Large</a></td>
+                <td>?</td>
+                <td>128k</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🟧 Jul 2024</td>
+            </tr>
+            <tr>
+                <td>Mistral</td>
+                <td><a href="https://mistral.ai/news/mixtral-8x22b/" target="_blank">Mixtral 8×22B</a></td>
+                <td>? / 141</td>
+                <td>65k</td>
+                <td>✅</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🟧 Apr 2024</td>
+            </tr>
+            <tr>
+                <td>MosaicML</td>
+                <td><a href="https://huggingface.co/mosaicml/mpt-30b" target="_blank">MPT-30B</a></td>
+                <td>30 / 30</td>
+                <td>8k</td>
+                <td>✅</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🩶 Jun 2023</td>
+            </tr>
+            <tr>
+                <td>OpenAI</td>
+                <td><a href="https://openai.com/blog/gpt-4-1" target="_blank">GPT-4.1</a></td>
+                <td>?</td>
+                <td>1M</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>❌</td>
+                <td>🚧</td>
+                <td>🟩 Apr 2025</td>
+            </tr>
+            <tr>
+                <td>OpenAI</td>
+                <td><a href="https://openai.com/blog/hello-gpt-4o/" target="_blank">GPT-4o</a></td>
+                <td>?</td>
+                <td>128k</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🟩 May 2024</td>
+            </tr>
+            <tr>
+                <td>OpenAI</td>
+                <td><a href="https://openai.com/o1" target="_blank">o1</a></td>
+                <td>?</td>
+                <td>128k</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🚧</td>
+                <td>🟧 Sep 2024</td>
+            </tr>
+            <tr>
+                <td>OpenAI</td>
+                <td><a href="https://openai.com/blog/introducing-o3-and-o4-mini" target="_blank">o3</a></td>
+                <td>?</td>
+                <td>128k</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🚧</td>
+                <td>🟩 Apr 2025</td>
+            </tr>
+            <tr>
+                <td>OpenAI</td>
+                <td><a href="https://openai.com/blog/introducing-o3-mini" target="_blank">o3-mini</a></td>
+                <td>?</td>
+                <td>200k</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🚧</td>
+                <td>🟧 Jan 2025</td>
+            </tr>
+            <tr>
+                <td>OpenAI</td>
+                <td><a href="https://openai.com/blog/introducing-o3-and-o4-mini" target="_blank">o4-mini</a></td>
+                <td>?</td>
+                <td>128k</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🚧</td>
+                <td>🟩 Apr 2025</td>
+            </tr>
+            <tr>
+                <td>Stability AI</td>
+                <td><a href="https://stability.ai/news/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models" target="_blank">StableLM-Alpha</a></td>
+                <td>7 / 7</td>
+                <td>4k</td>
+                <td>✅</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>🩶 Apr 2023</td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="source">Source: <a href="dub.sh/aimofos" target="_blank">AI.I, Motherfuckers!</a></div>
+</body>
+</html>
