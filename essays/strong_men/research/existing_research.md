@@ -44,17 +44,17 @@ Building on secular cycles, cliodynamics uses mathematical models and big-data h
 
 No scholar has formally published on Hopf’s catchy cycle itself, but its core idea stands on centuries of thought and decades of empirical modeling. From Ibn Khaldun’s tribal asabiyyah to Spengler’s biological metaphor, Toynbee’s challenge-response, Strauss–Howe’s turnings, and Turchin’s numerical cycles, the notion that societies follow rise-and-fall rhythms is well researched—just not under that exact meme.
 
-[1]: https://foreignpolicy.com/2020/05/02/hard-times-dont-make-strong-soldiers-warrior-myth/?utm_source=chatgpt.com "Hard Times Don't Make Strong Soldiers - Foreign Policy"
-[2]: https://www.reddit.com/r/AskHistorians/comments/ug1d82/hard_times_create_strong_men_strong_men_create/?utm_source=chatgpt.com "r/AskHistorians on Reddit: \"Hard times create strong men, strong ..."
-[3]: https://www.gmichaelhopf.com/hard-times?utm_source=chatgpt.com "HARD TIMES.... - G. Michael Hopf"
-[4]: https://en.wikipedia.org/wiki/Ibn_Khaldun?utm_source=chatgpt.com "Ibn Khaldun"
-[5]: https://en.wikipedia.org/wiki/Asabiyyah?utm_source=chatgpt.com "Asabiyyah"
-[6]: https://en.wikipedia.org/wiki/The_Decline_of_the_West?utm_source=chatgpt.com "The Decline of the West"
-[7]: https://www.newyorker.com/magazine/2011/09/12/decline-fall-rinse-repeat?utm_source=chatgpt.com "Decline, Fall, Rinse, Repeat"
-[8]: https://en.wikipedia.org/wiki/A_Study_of_History?utm_source=chatgpt.com "A Study of History"
-[9]: https://en.wikipedia.org/wiki/Arnold_J._Toynbee?utm_source=chatgpt.com "Arnold J. Toynbee - Wikipedia"
-[10]: https://en.wikipedia.org/wiki/Social_cycle_theory "Social cycle theory - Wikipedia"
-[11]: https://en.wikipedia.org/wiki/Social_cycle_theory?utm_source=chatgpt.com "Social cycle theory - Wikipedia"
-[12]: https://www.jstor.org/stable/j.ctt7t2gj?utm_source=chatgpt.com "Secular Cycles on JSTOR"
-[13]: https://www.wired.com/2013/04/cliodynamics-peter-turchin?utm_source=chatgpt.com "Mathematicians Predict the Future With Data From the Past"
-[14]: https://time.com/5852397/turchin-2020-prediction/?utm_source=chatgpt.com "This Researcher Predicted 2020 Would Be Mayhem. Here's What He Says May Come Next"
+[1]: https://foreignpolicy.com/2020/05/02/hard-times-dont-make-strong-soldiers-warrior-myth/ “Hard Times Don’t Make Strong Soldiers - Foreign Policy”
+[2]: https://www.reddit.com/r/AskHistorians/comments/ug1d82/hard_times_create_strong_men_strong_men_create/ “r/AskHistorians on Reddit: \“Hard times create strong men, strong ..."
+[3]: https://www.gmichaelhopf.com/hard-times “HARD TIMES.... - G. Michael Hopf”
+[4]: https://en.wikipedia.org/wiki/Ibn_Khaldun “Ibn Khaldun”
+[5]: https://en.wikipedia.org/wiki/Asabiyyah “Asabiyyah”
+[6]: https://en.wikipedia.org/wiki/The_Decline_of_the_West “The Decline of the West”
+[7]: https://www.newyorker.com/magazine/2011/09/12/decline-fall-rinse-repeat “Decline, Fall, Rinse, Repeat”
+[8]: https://en.wikipedia.org/wiki/A_Study_of_History “A Study of History”
+[9]: https://en.wikipedia.org/wiki/Arnold_J._Toynbee “Arnold J. Toynbee - Wikipedia”
+[10]: https://en.wikipedia.org/wiki/Social_cycle_theory “Social cycle theory - Wikipedia”
+[11]: https://en.wikipedia.org/wiki/Social_cycle_theory “Social cycle theory - Wikipedia”
+[12]: https://www.jstor.org/stable/j.ctt7t2gj “Secular Cycles on JSTOR”
+[13]: https://www.wired.com/2013/04/cliodynamics-peter-turchin “Mathematicians Predict the Future With Data From the Past”
+[14]: https://time.com/5852397/turchin-2020-prediction/ “This Researcher Predicted 2020 Would Be Mayhem. Here’s What He Says May Come Next”

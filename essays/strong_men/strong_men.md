@@ -34,33 +34,33 @@ History’s messy. The meme isn’t. All it takes is a few well-placed counterex
 
 (*i.e., suffering breeds saviors*)
 
-* 🇯🇵 **Post-WWII Japan** (1945–1952): Nuked, occupied, devastated—and rebuilt by pacifist technocrats, not warrior-kings.
-* 🇸🇪 **Sweden’s Famine & Reform Era** (1867–69): Crop failures and hunger didn’t bring generals—just expanded voting rights.
-* 🇨🇦 **Great Depression Canada** (1930s): Bank failures, mass unemployment, zero fascists. Parliamentary democracy held.
+* 🇯🇵 **Post-WWII Japan** (1945–1952): Nuked, occupied, devastated—and [rebuilt by pacifist technocrats](https://www.britannica.com/place/Japan/Japan-since-1945), not warrior-kings.
+* 🇸🇪 **Sweden’s Famine & Reform Era** (1867–69): Crop failures and hunger didn’t bring generals—just [expanded voting rights](https://en.wikipedia.org/wiki/1866_Swedish_general_election).
+* 🇨🇦 **Great Depression Canada** (1930s): [Bank failures, mass unemployment](https://en.wikipedia.org/wiki/Great_Depression_in_Canada), little to no fascists. Parliamentary democracy held.
 
 ### **Strong men create good times**
 
 (*i.e., authoritarianism fixes everything*)
 
-* 🇩🇪 **Nazi Germany** (1933–1945): Militarized, centralized, mythologized. Ended in rubble and genocide.
-* 🇰🇭 **Khmer Rouge Cambodia** (1975–79): Peasant-worshipping strongmen emptied the cities and filled the graves.
-* 🇲🇽 **Aztec Empire under Montezuma II** (1502–1520): Militaristic, theocratic, brutal—and collapsed like wet obsidian.
+* 🇩🇪 **Nazi Germany** (1933–1945): [Militarized, centralized, mythologized](https://www.britannica.com/place/Germany/The-Third-Reich-1933-45). Ended in rubble and genocide.
+* 🇰🇭 **Khmer Rouge Cambodia** (1975–79): [Peasant-worshipping strongmen](https://www.britannica.com/topic/Khmer-Rouge) emptied the cities and filled the graves.
+* 🇲🇽 **Aztec Empire under Montezuma II** (1502–1520): Militaristic, theocratic, brutal—and [collapsed like wet obsidian](https://www.britannica.com/summary/Decline-of-the-Aztec-Empire).
 
 ### **Good times create weak men**
 
 (*i.e., prosperity makes you soft*)
 
-* 🇨🇳 **Tang Dynasty China** (7th–9th c.): Trade boomed, poetry flourished—and generals still kicked ass on the steppe.
-* 🇮🇹 **Renaissance Florence** (15th c.): Wealth, art, and banking didn’t stop them from plotting, dueling, and occasionally assassinating their way through power struggles.
-* 🇮🇶 **Abbasid Caliphate** (8th–9th c.): Science, medicine, bureaucracy—somehow no one melted into decadence.
+* 🇨🇳 **Tang Dynasty China** (7th–9th c.): [Trade boomed, poetry flourished](https://www.britannica.com/topic/Tang-dynasty)—and generals still [kicked ass on the steppe](https://www.britannica.com/place/China/Rise-of-the-empress-Wuhou).
+* 🇮🇹 **Renaissance Florence** (15th c.): Wealth, art, and banking didn’t stop them from [plotting, dueling, and occasionally assassinating](https://en.wikipedia.org/wiki/Pazzi_conspiracy) their way through power struggles.
+* 🇮🇶 **Abbasid Caliphate** (8th–9th c.): [Science, medicine, bureaucracy](https://www.britannica.com/place/Bayt-al-Hikmah)—somehow no one melted into decadence.
 
 ### **Weak men create hard times**
 
 (*i.e., softness causes collapse*)
 
-* 🇳🇱 **Dutch Golden Age** (17th c.): Ruled by merchants, tolerant, and relatively pacifist—somehow no one collapsed from all the trade and paintings.
-* 🇬🇧 **Victorian Britain** (late 19th c.): Between fainting couches and moral panic, they still built railroads on five continents.
-* 🇪🇹 **Zemene Mesafint Ethiopia** (1769–1855): Politically fragmented, emperors sidelined—but the imperial system endured just fine.
+* 🇳🇱 **Dutch Golden Age** (17th c.): [Ruled by merchants, tolerant](https://www.britannica.com/place/Netherlands/Dutch-civilization-in-the-Golden-Age-1609-1713), and relatively pacifist—somehow no one collapsed from all the trade and paintings.
+* 🇬🇧 **Victorian Britain** (late 19th c.): Between [fainting couches and moral panic](https://www.bbc.co.uk/history/british/victorians/crime_01.shtml), they still [built railroads on five continents](https://www.britannica.com/event/British-raj).
+* 🇪🇹 **Zemene Mesafint Ethiopia** (1769–1855): [Politically fragmented, emperors sidelined](https://www.britannica.com/topic/Zamana-Masafent)—but the [imperial system endured](https://www.britannica.com/biography/Tewodros-II) just fine.
 
 ## **Where the Meme Snaps (and Where It Clings Like a Tick)**
 
@@ -68,7 +68,7 @@ Now that we’ve seen the cracks, let’s talk about the strength of each link�
 
 Somewhat alarmingly, the hardest part to debunk is the very first:
 **“Hard times create strong men.”**
-This one clings. Not because it predicts nobility or virtue, but because it taps into something darker and truer: when a society hits the rocks, people get desperate. And desperation is prime ground for manipulation. You don’t necessarily get strength—you get opportunists, demagogues, cult leaders, and occasionally someone who just looks good yelling on horseback. The "strength" that arises from suffering is usually concentrated, brutal, and self-serving. It's not a phoenix; it’s a vulture with good PR.
+This one clings. Not because it predicts nobility or virtue, but because it taps into something darker and truer: when a society hits the rocks, people get desperate. And desperation is prime ground for manipulation. You don’t necessarily get strength—you get opportunists, demagogues, cult leaders, and occasionally someone who just looks good yelling on horseback. The “strength” that arises from suffering is usually concentrated, brutal, and self-serving. It’s not a phoenix; it’s a vulture with good PR.
 
 On the other end, **“strong men create good times”** is the meme’s most fragile fantasy. Honestly, we’d have a much harder time finding a *supporting* example than a refutation. Even the usual suspects crumble under inspection. **Napoleon?** Sure, if you count “good times” as nonstop war, continental conscription, and a legacy that got France invaded three times in a century. **Julius Caesar?** His rise ended the Republic and kicked off a century of purges and imperial bloodletting. **Genghis Khan?** Great for Mongol logistics; less great for the 11% of humans who stopped existing. Even when it *looks* like strength brought stability, it usually came soaked in violence, repression, or sheer unsustainability.
 
