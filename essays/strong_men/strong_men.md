@@ -59,7 +59,7 @@ History’s messy. The meme isn’t. All it takes is a few well-placed counterex
 (*i.e., softness causes collapse*)
 
 * 🇳🇱 **Dutch Golden Age** (17th c.): [Ruled by merchants, tolerant](https://www.britannica.com/place/Netherlands/Dutch-civilization-in-the-Golden-Age-1609-1713), and relatively pacifist—somehow no one collapsed from all the trade and paintings.
-* 🇬🇧 **Victorian Britain** (late 19th c.): Between [fainting couches and moral panic](https://www.bbc.co.uk/history/british/victorians/crime_01.shtml), they still [built railroads on five continents](https://www.britannica.com/event/British-raj).
+* 🇬🇧 **Victorian Britain** (late 19th c.): Amidst [all the decadence](https://en.wikipedia.org/wiki/Decadent_movement#Britain), they still [built railroads on five continents](https://www.britannica.com/event/British-raj).
 * 🇪🇹 **Zemene Mesafint Ethiopia** (1769–1855): [Politically fragmented, emperors sidelined](https://www.britannica.com/topic/Zamana-Masafent)—but the [imperial system endured](https://www.britannica.com/biography/Tewodros-II) just fine.
 
 ## **Where the Meme Snaps (and Where It Clings Like a Tick)**
