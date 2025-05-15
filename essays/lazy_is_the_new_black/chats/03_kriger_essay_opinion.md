@@ -46,5 +46,5 @@ Boris (Bruce) Kriger’s essay, “The Relationship Between Boredom and Laziness
 
 Yes—in reframing laziness as a creative ally and boredom as a motivational beacon, Kriger’s essay clearly adopts a contrarian stance, challenging mainstream views that label both states as purely negative and instead positioning them as complementary forces in human motivation and innovation ([Medium][1]).
 
-[1]: https://medium.com/clinical-research-news/the-relationship-between-boredom-and-laziness-a-paradox-of-human-motivation-b72d082b9059?utm_source=chatgpt.com "The Relationship Between Boredom and Laziness: A Paradox of ..."
-[2]: https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad?utm_source=chatgpt.com "Constantly scrolling on your phone? Why we can't stand feeling bored"
+[1]: https://medium.com/clinical-research-news/the-relationship-between-boredom-and-laziness-a-paradox-of-human-motivation-b72d082b9059 "The Relationship Between Boredom and Laziness: A Paradox of ..."
+[2]: https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad "Constantly scrolling on your phone? Why we can't stand feeling bored"

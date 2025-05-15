@@ -22,11 +22,11 @@ There are niche offshoots—neural databases tailored for differentially private
 
 Yes: “neural database” is very much a thing, just not one monolithic technology. It’s a lively research area and a branding trend for systems that blur the line between neural nets and data storage/query engines ([arXiv][3], [Medium][5]).
 
-[1]: https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks?utm_source=chatgpt.com "Types of artificial neural networks"
-[2]: https://cs229.stanford.edu/proj2015/367_report.pdf?utm_source=chatgpt.com "[PDF] Neural Memory Networks - CS229"
-[3]: https://arxiv.org/abs/2010.06973?utm_source=chatgpt.com "Neural Databases"
-[4]: https://www.vldb.org/pvldb/vol14/p1033-thorne.pdf?utm_source=chatgpt.com "[PDF] From Natural Language Processing to Neural Databases"
-[5]: https://medium.com/thirdai-blog/neural-database-next-generation-context-retrieval-system-for-building-specialized-ai-agents-with-861ffa0516e7?utm_source=chatgpt.com "Neural Databases: A Next Generation Context Retrieval System for ..."
-[6]: https://medium.com/thirdai-blog/thirdais-private-and-personalizable-neural-database-enhancing-retrieval-augmented-generation-f3ad52c54952?utm_source=chatgpt.com "ThirdAI's Private and Personalizable Neural Database: Enhancing ..."
-[7]: https://www.vldb.org/pvldb/vol15/p1066-zeighami.pdf?utm_source=chatgpt.com "[PDF] A Neural Database for Differentially Private Spatial Range Queries"
-[8]: https://openproceedings.org/2024/conf/edbt/paper-82.pdf?utm_source=chatgpt.com "[PDF] QPSeeker: An Efficient Neural Planner combining both data and ..."
+[1]: https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks "Types of artificial neural networks"
+[2]: https://cs229.stanford.edu/proj2015/367_report.pdf "[PDF] Neural Memory Networks - CS229"
+[3]: https://arxiv.org/abs/2010.06973 "Neural Databases"
+[4]: https://www.vldb.org/pvldb/vol14/p1033-thorne.pdf "[PDF] From Natural Language Processing to Neural Databases"
+[5]: https://medium.com/thirdai-blog/neural-database-next-generation-context-retrieval-system-for-building-specialized-ai-agents-with-861ffa0516e7 "Neural Databases: A Next Generation Context Retrieval System for ..."
+[6]: https://medium.com/thirdai-blog/thirdais-private-and-personalizable-neural-database-enhancing-retrieval-augmented-generation-f3ad52c54952 "ThirdAI's Private and Personalizable Neural Database: Enhancing ..."
+[7]: https://www.vldb.org/pvldb/vol15/p1066-zeighami.pdf "[PDF] A Neural Database for Differentially Private Spatial Range Queries"
+[8]: https://openproceedings.org/2024/conf/edbt/paper-82.pdf "[PDF] QPSeeker: An Efficient Neural Planner combining both data and ..."

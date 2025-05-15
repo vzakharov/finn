@@ -53,12 +53,12 @@ Here’s the short of it: there **are** memory-augmented nets built to hoard int
 
 **Bottom line:** If you want an LLM that truly hoards its own hidden representations—and does so via a separate, detachable memory contour—you’re looking at Compressive/Dynamic Compressive Transformers, DNCs/NTMs, LEMNs, and the very latest Titans (plus smatterings of k-NN or IBM’s episodic stores). Each offers its own trade-offs on complexity, performance, and how “detachable” that memory really is.
 
-[1]: https://arxiv.org/abs/1911.05507?utm_source=chatgpt.com "Compressive Transformers for Long-Range Sequence Modelling"
-[2]: https://deepmind.google/discover/blog/a-new-model-and-dataset-for-long-range-memory/?utm_source=chatgpt.com "A new model and dataset for long-range memory - Google DeepMind"
-[3]: https://arxiv.org/abs/2110.04821?utm_source=chatgpt.com "DCT: Dynamic Compressive Transformer for Modeling Unbounded Sequence"
-[4]: https://en.wikipedia.org/wiki/Differentiable_neural_computer?utm_source=chatgpt.com "Differentiable neural computer"
-[5]: https://deepmind.google/discover/blog/differentiable-neural-computers/?utm_source=chatgpt.com "Differentiable neural computers - Google DeepMind"
-[6]: https://arxiv.org/abs/1812.04227?utm_source=chatgpt.com "Learning What to Remember: Long-term Episodic Memory Networks ..."
-[7]: https://arxiv.org/abs/2501.00663?utm_source=chatgpt.com "Titans: Learning to Memorize at Test Time"
-[8]: https://arxiv.org/abs/2102.02557?utm_source=chatgpt.com "Adaptive Semiparametric Language Models"
-[9]: https://research.ibm.com/blog/memory-augmented-LLMs?utm_source=chatgpt.com "How memory augmentation can improve large language models"
+[1]: https://arxiv.org/abs/1911.05507 "Compressive Transformers for Long-Range Sequence Modelling"
+[2]: https://deepmind.google/discover/blog/a-new-model-and-dataset-for-long-range-memory/ "A new model and dataset for long-range memory - Google DeepMind"
+[3]: https://arxiv.org/abs/2110.04821 "DCT: Dynamic Compressive Transformer for Modeling Unbounded Sequence"
+[4]: https://en.wikipedia.org/wiki/Differentiable_neural_computer "Differentiable neural computer"
+[5]: https://deepmind.google/discover/blog/differentiable-neural-computers/ "Differentiable neural computers - Google DeepMind"
+[6]: https://arxiv.org/abs/1812.04227 "Learning What to Remember: Long-term Episodic Memory Networks ..."
+[7]: https://arxiv.org/abs/2501.00663 "Titans: Learning to Memorize at Test Time"
+[8]: https://arxiv.org/abs/2102.02557 "Adaptive Semiparametric Language Models"
+[9]: https://research.ibm.com/blog/memory-augmented-LLMs "How memory augmentation can improve large language models"
