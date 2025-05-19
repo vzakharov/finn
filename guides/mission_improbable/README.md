@@ -16,19 +16,19 @@ This guide examines the unique challenges faced by those who refuse to kill yet 
 
 ## Project Structure
 
-- `README.md` - This file
-- `book.html` - Complete guide in HTML format
-- `compiled.md` - Complete guide in Markdown format
-- `book_style.css` - Styling for the HTML version
-- `01_lede.md` - Introduction and disclaimers
-- `02_jobs.md` - Jobs That Keep You Breathing: non-combat roles
-- `03_behavior.md` - Kiss Up, Lay Low, Stay Alive: social survival tactics
-- `04_physical.md` - The Fine Art of Not Getting Shot: physical survival
-- `05_ethics.md` - Moral Landmines: navigating ethical dilemmas
-- `06_coping.md` - Foxhole Zen & Other Coping Tricks: mental resilience
-- `07_quitting.md` - Ghosting the Battlefield: leaving options
-- `08_conclusion.md` - Conclusion and final thoughts
-- `09_sources.md` - References and source material
+- [README.md](README.md) - This file
+- [book.html](book.html) - Complete guide in HTML format
+- [compiled.md](compiled.md) - Complete guide in Markdown format
+- [book_style.css](book_style.css) - Styling for the HTML version
+- [01_lede.md](01_lede.md) - Introduction and disclaimers
+- [02_jobs.md](02_jobs.md) - Jobs That Keep You Breathing: non-combat roles
+- [03_behavior.md](03_behavior.md) - Kiss Up, Lay Low, Stay Alive: social survival tactics
+- [04_physical.md](04_physical.md) - The Fine Art of Not Getting Shot: physical survival
+- [05_ethics.md](05_ethics.md) - Moral Landmines: navigating ethical dilemmas
+- [06_coping.md](06_coping.md) - Foxhole Zen & Other Coping Tricks: mental resilience
+- [07_quitting.md](07_quitting.md) - Ghosting the Battlefield: leaving options
+- [08_conclusion.md](08_conclusion.md) - Conclusion and final thoughts
+- [09_sources.md](09_sources.md) - References and source material
 
 ## Core Concepts
 
