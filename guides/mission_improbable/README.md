@@ -24,7 +24,7 @@ This guide examines the unique challenges faced by those who refuse to kill yet 
 - [02_jobs.md](02_jobs.md) - Jobs That Keep You Breathing: non-combat roles
 - [03_behavior.md](03_behavior.md) - Kiss Up, Lay Low, Stay Alive: social survival tactics
 - [04_physical.md](04_physical.md) - The Fine Art of Not Getting Shot: physical survival
-- [05_ethics.md](05_ethics.md) - Moral Landmines: navigating ethical dilemmas
+- [05_ethics.md](05_ethics.md) - Dodging the Moral Landmines: navigating ethical dilemmas
 - [06_coping.md](06_coping.md) - Foxhole Zen & Other Coping Tricks: mental resilience
 - [07_quitting.md](07_quitting.md) - Ghosting the Battlefield: leaving options
 - [08_conclusion.md](08_conclusion.md) - Conclusion and final thoughts

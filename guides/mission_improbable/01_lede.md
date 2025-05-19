@@ -16,6 +16,7 @@ No patriotic fluff. No calls to glory. Just the hard, gritty, cowardly (read: in
 
 Welcome to the survivalist’s paradox.  
 Let’s keep you breathing.
+This is Glitchporn.
 
 ## Disclaimers
 
@@ -32,22 +33,22 @@ Let’s keep you breathing.
 
 ### Not The Definitive Guide
 
->*This guide was stitched together by a human whose most intense combat experience involved a fistfight behind a movie theatre — and an equally unqualified but overachieving AI. While we’ve done our damnedest to ground every section in sources from people and institutions who’ve actually been shot at (or trained those who have), this is still an armchair survival guide for a trench-level dilemma. Don’t take our word as gospel. Do your own research, listen to real veterans, and if possible, avoid wars entirely.*
+>*This guide was stitched together by a human whose most intense combat experience involved a fistfight behind a movie theatre, and a neural net with no survival instinct. While we’ve done our damnedest to ground every section in sources from people who’ve actually been shot at (or trained those who have), this is still an armchair survival guide for a trench-level problem. Don’t take our word as gospel. Do your own research, listen to real veterans, and if possible,* avoid wars entirely.
 
-## Outline (Because, Yes, It’s Long)
+## Outline (because, yes, it’s long)
 
-As this guide turned out lengthier than we intended — approaching 60 pages last time we checked, give or take a few emotional detours — here’s a breakdown of what’s inside, in case you want to jump to the bits most relevant to your current existential predicament.
+As this guide turned out lengthier than we intended — approaching 60 pages last time we checked — here’s a breakdown of what’s inside, in case you want to jump to the bits most relevant to your current existential predicament.
 
-* [**Jobs That Keep You Breathing**](/jobs-that-keep-you-breathing) – The roles that let you serve without shooting, from medics to mechanics, and why the rear isn’t always cowardice — it’s strategy.
+* [**Jobs That Keep You Breathing**](/jobs-that-keep-you-breathing) – The roles that let you serve without shooting, from medics to mechanics, and why the rear isn’t cowardice — it’s strategy.
 
-* [**Kiss Up, Lay Low, Stay Alive**](/kiss-up-lay-low-stay-alive) – How to be useful enough to keep around, invisible enough not to be promoted, and liked enough not to get fragged.
+* [**Kiss Up, Lay Low, Stay Alive**](/kiss-up-lay-low-stay-alive) – How to be useful enough to keep around, invisible enough not to be promoted, and liked enough not to stay off anyone’s bad side.
 
-* [**The Fine Art of Not Getting Shot**](/the-fine-art-of-not-getting-shot) – Movement, cover, concealment, and other ways to make your unarmed self a frustratingly hard target.
+* [**The Fine Art of Not Getting Shot**](/the-fine-art-of-not-getting-shot) – Movement, cover, concealment, and other ways to make your unarmed self a sufficiently hard target.
 
-* [**Moral Landmines**](/moral-landmines) – The seemingly harmless tasks that still get people killed, and how to dodge complicity without getting court-martialed.
+* [**Dodging the Moral Landmines**](/dodging-the-moral-landmines) – The seemingly harmless tasks that still get people killed, and how to dodge complicity without getting court-martialed.
 
 * [**Foxhole Zen & Other Coping Tricks**](/foxhole-zen-and-other-coping-tricks) – Mental survival in the madhouse: dark humor, ritual, small comforts, and the fine line between calm and dissociation.
 
-* [**Ghosting the Battlefield (Tactic Zero)**](/ghosting-the-battlefield-tactic-zero) – When all else fails: faking, fleeing, or just quietly ceasing to exist — plus the ethics and risks of each.
+* [**Ghosting the Battlefield (Tactic Zero)**](/ghosting-the-battlefield-tactic-zero) – When all else fails: faking, fleeing, surrendering — plus the ethics and risks of each.
 
-Now, take a deep breath, pick your poison — or your lifeline — and let’s glitch you through this in one piece, soul included.
+Now, take a deep breath, pick your poison — or your lifeline — and let’s glitch you through the foxholes in one piece, soul included.

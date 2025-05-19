@@ -1,4 +1,4 @@
-## Moral Landmines
+## Dodging the Moral Landmines
 
 It’s not enough to dodge enemy fire; as a pacifist you also need to dodge the **moral booby traps** your own side may set under your feet. Modern warfare has countless ways to make people complicit in killing without ever pulling a trigger. 
 

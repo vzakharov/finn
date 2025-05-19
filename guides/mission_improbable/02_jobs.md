@@ -1,16 +1,14 @@
 ## Jobs That Keep You Breathing
 
-If you have any say in it (and sometimes, you do), steer yourself into a role where “service” doesn’t necessarily mean “shoot to kill.” Modern militaries are vast machines, and only a fraction of personnel actually pull triggers on the regular. In many forces today, as few as 25–30% of troops are dedicated combatants – the rest are support: medics, mechanics, drivers, techies, pencil-pushers. 
+So, your number’s come up and you’re headed to war. Your choice of military job might just save both your life and your conscience, so let’s get right to it.
 
-> **“Only a fraction of personnel actually pull triggers on the regular.”**
+If you have any say in it (and sometimes, you do), steer yourself into a role where “service” doesn’t necessarily mean “shoot to kill.” Modern militaries are vast machines, and only a fraction of personnel actually pull triggers on the regular. In many forces today, as few as 25–30% of troops are dedicated combatants – the rest are support: medics, mechanics, drivers, techies, pencil-pushers. 
 
 In other words, the majority are there to help the war *happen* without directly blasting the enemy. These support roles can be a [pacifist’s refuge](https://dalecentersouthernmiss.wordpress.com/2021/11/03/the-tooth-to-tail-ratio-and-modern-army-logistics/). They **keep you breathing** in two ways: by placing you a step back from the hottest danger, and by letting you contribute without serving death on a platter.
 
 ### Medic (Combat Medic / Corpsman)
 
 The classic noncombatant hero. You carry bandages, not bombs. Medics rush into harm’s way *to save lives*, not take them. International law even grants medical personnel protected status – under the [Geneva Conventions](https://ihl-databases.icrc.org/en/customary-ihl/v1/rule25), true medics are supposed to be “respected and protected in all circumstances” and not intentionally targeted (in theory, anyway). 
-
-> **“You carry bandages, not bombs.”**
 
 That doesn’t make it safe – saving wounded comrades while under fire is one of the bravest jobs going, and medics do get shot (sometimes deliberately by enemies who *don’t* honor the red cross). But morally, you’re as close to clean as war allows. You’re alleviating suffering, not causing it. 
 
@@ -63,7 +61,5 @@ This is a niche path (requires religious credentials and you might have to minis
 These roles keep you away from direct fighting and let you actively preserve humanity amid war. Just note, being the unarmed conscience in the unit can be a lonely road – chaplains have died in war zones too (shells and bullets don’t check your vestments). Still, if you feel a calling to serve fellow humans without violence, this is it.
 
 In short, **play to the “tail,” not the “teeth.”** Modern armies are complex ecosystems where only a minority are door-kickers. By sliding yourself into that majority support sector, you drastically lower the chances you’ll be ordered to mow down an enemy. You also increase your odds of making it through alive. 
-
-> **“The farther from the muzzle flash you work, the longer you tend to live.”**
 
 Remember, *no job in war is perfectly safe*. Medics can get shot retrieving wounded. Truck convoys can hit IEDs. But as a rule, the farther from the muzzle flash you work, the longer you tend to live to see another sunrise. And at the end of the day, handing out bandages, beans, or battery packs is a lot better for your conscience than pulling triggers. It’s the art of staying useful but not lethal.
