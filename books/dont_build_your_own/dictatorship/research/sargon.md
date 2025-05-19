@@ -26,12 +26,12 @@ While Sargon never held the formal title of “dictator,” his rule exemplifies
 
 Sargon of Akkad may not bear the Roman title of “dictator,” but his groundbreaking establishment of the Akkadian Empire showcases every defining feature of autocracy: unrestrained authority, a personal cult, and the systematic use of force to unify diverse populations. In the long history of potentates, his reign stands as the archetypal blueprint for empire-building through absolute power.
 
-[1]: https://en.wikipedia.org/wiki/Sargon_of_Akkad?utm_source=chatgpt.com "Sargon of Akkad - Wikipedia"
-[2]: https://www.britannica.com/biography/Sargon?utm_source=chatgpt.com "Sargon | History, Accomplishments, Facts, & Definition - Britannica"
-[3]: https://erenow.org/ancient/susanhistory/15.php?utm_source=chatgpt.com "The First Military Dictator - FIRSTS - The History of the Ancient World"
-[4]: https://www.newyorker.com/magazine/2005/05/02/the-climate-of-man-ii?utm_source=chatgpt.com "The Climate of Man-II"
-[5]: https://en.wikipedia.org/wiki/Akkadian_Empire?utm_source=chatgpt.com "Akkadian Empire - Wikipedia"
-[6]: https://hist1039-16.omeka.fas.harvard.edu/exhibits/show/manishtushu-obelisk/power-centralization-during-th?utm_source=chatgpt.com "POWER CENTRALIZATION DURING THE EMPIRE OF AKKAD"
-[7]: https://en.wikipedia.org/wiki/Autocracy?utm_source=chatgpt.com "Autocracy - Wikipedia"
-[8]: https://chronos.academy/an4?utm_source=chatgpt.com "4 First Sumerian Dictator 2000 BC - Chronos Academy"
-[9]: https://www.worldhistory.org/article/746/the-legend-of-sargon-of-akkad/?utm_source=chatgpt.com "The Legend of Sargon of Akkad - World History Encyclopedia"
+[1]: https://en.wikipedia.org/wiki/Sargon_of_Akkad "Sargon of Akkad - Wikipedia"
+[2]: https://www.britannica.com/biography/Sargon "Sargon | History, Accomplishments, Facts, & Definition - Britannica"
+[3]: https://erenow.org/ancient/susanhistory/15.php "The First Military Dictator - FIRSTS - The History of the Ancient World"
+[4]: https://www.newyorker.com/magazine/2005/05/02/the-climate-of-man-ii "The Climate of Man-II"
+[5]: https://en.wikipedia.org/wiki/Akkadian_Empire "Akkadian Empire - Wikipedia"
+[6]: https://hist1039-16.omeka.fas.harvard.edu/exhibits/show/manishtushu-obelisk/power-centralization-during-th "POWER CENTRALIZATION DURING THE EMPIRE OF AKKAD"
+[7]: https://en.wikipedia.org/wiki/Autocracy "Autocracy - Wikipedia"
+[8]: https://chronos.academy/an4 "4 First Sumerian Dictator 2000 BC - Chronos Academy"
+[9]: https://www.worldhistory.org/article/746/the-legend-of-sargon-of-akkad/ "The Legend of Sargon of Akkad - World History Encyclopedia"

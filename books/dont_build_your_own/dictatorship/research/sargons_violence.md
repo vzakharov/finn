@@ -21,11 +21,11 @@ Sargon of Akkad (r. 2334–2279 BCE) anchored his rule in a primal mix of specta
 5. **Brutal Year-Names**
    His regime even named years after its worst atrocities—one regnal year is recorded as “Year in which Mari was destroyed,” bureaucratically memorializing the city’s burning and pillage ([Wikipedia][2]) ([Wikipedia][8]).
 
-[1]: https://en.wikipedia.org/wiki/Lugal-zage-si?utm_source=chatgpt.com "Lugal-zage-si - Wikipedia"
-[2]: https://en.wikipedia.org/wiki/Sargon_of_Akkad?utm_source=chatgpt.com "Sargon of Akkad"
-[3]: https://static.secure.website/wscfus/10444430/8732144/sargon-the-akkad-great-11pg.pdf?utm_source=chatgpt.com "[PDF] Sargon of Akkad"
-[4]: https://www.penn.museum/sites/journal/9818/?utm_source=chatgpt.com "The Museum Journal | The Inscriptions of the Kings of Agade"
-[5]: https://petesfavouritethings.blog/2016/11/17/10849/?utm_source=chatgpt.com "The Akkadian Empire (1) - Pete's Favourite Things"
+[1]: https://en.wikipedia.org/wiki/Lugal-zage-si "Lugal-zage-si - Wikipedia"
+[2]: https://en.wikipedia.org/wiki/Sargon_of_Akkad "Sargon of Akkad"
+[3]: https://static.secure.website/wscfus/10444430/8732144/sargon-the-akkad-great-11pg.pdf "[PDF] Sargon of Akkad"
+[4]: https://www.penn.museum/sites/journal/9818/ "The Museum Journal | The Inscriptions of the Kings of Agade"
+[5]: https://petesfavouritethings.blog/2016/11/17/10849/ "The Akkadian Empire (1) - Pete's Favourite Things"
 [6]: https://www.worldhistory.org/article/746/the-legend-of-sargon-of-akkad/ "The Legend of Sargon of Akkad - World History Encyclopedia"
-[7]: https://www.worldhistory.org/article/746/the-legend-of-sargon-of-akkad/?utm_source=chatgpt.com "The Legend of Sargon of Akkad - World History Encyclopedia"
-[8]: https://en.wikipedia.org/wiki/Mari%2C_Syria?utm_source=chatgpt.com "Mari, Syria - Wikipedia"
+[7]: https://www.worldhistory.org/article/746/the-legend-of-sargon-of-akkad/ "The Legend of Sargon of Akkad - World History Encyclopedia"
+[8]: https://en.wikipedia.org/wiki/Mari%2C_Syria "Mari, Syria - Wikipedia"

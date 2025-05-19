@@ -42,7 +42,7 @@ So, who thrives in this new world? The ones who understand delegation — not ju
 
 Here’s where it gets spicy: you don’t even need to *do* the thing anymore — you just need to be the person who knows *what* should be done and *how* to offload it. The new power move isn’t hustle. It’s judgment. Can you tell what should be done by you, and what should be punted to the bots? Can you steer the intern who never sleeps, never unionizes, and never asks for a raise? Welcome to your empire.
 
-As Bernard Marr [puts it](https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/?utm_source=chatgpt.com ), *“Artificial intelligence isn’t going to replace people — but people who use AI are going to replace people who don’t”* That’s not career advice. That’s a weather report. The rain is falling, and the umbrella is called *delegation*.
+As Bernard Marr [puts it](https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/ ), *“Artificial intelligence isn’t going to replace people — but people who use AI are going to replace people who don’t”* That’s not career advice. That’s a weather report. The rain is falling, and the umbrella is called *delegation*.
 
 Think of the lazy third son in every folktale. The one who doesn’t fight the dragon but chats with the talking bird who knows a shortcut. Delegation is their secret sauce. It’s not about doing the work. It’s about making sure the work gets done — with a bit of strategic idleness. (And yes, that son is almost always called “the fool” — but hey, we talked about branding problems earlier.)
 

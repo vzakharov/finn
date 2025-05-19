@@ -34,10 +34,10 @@ In an even more fanciful vein, Diodorus Siculus records that Menes, attacked by 
 While these colorful anecdotes highlight the enduring mythos of Egypt’s proto-pharaoh, they originate in sources centuries removed from Narmer’s lifetime, and no firsthand evidence has survived to illuminate his literal downfall ([Wikipedia][1]).
 
 [1]: https://en.wikipedia.org/wiki/Narmer "Narmer - Wikipedia"
-[2]: https://en.wikipedia.org/wiki/Narmer?utm_source=chatgpt.com "Narmer"
-[3]: https://historica.fandom.com/wiki/Narmer?utm_source=chatgpt.com "Narmer | Historica Wiki - Fandom"
-[4]: https://en.wikipedia.org/wiki/Menes?utm_source=chatgpt.com "Menes"
-[5]: https://www.britannica.com/biography/Menes?utm_source=chatgpt.com "Menes | Pharaoh, Accomplishments, Definition, History, & Facts"
+[2]: https://en.wikipedia.org/wiki/Narmer "Narmer"
+[3]: https://historica.fandom.com/wiki/Narmer "Narmer | Historica Wiki - Fandom"
+[4]: https://en.wikipedia.org/wiki/Menes "Menes"
+[5]: https://www.britannica.com/biography/Menes "Menes | Pharaoh, Accomplishments, Definition, History, & Facts"
 [6]: https://en.wikipedia.org/wiki/Menes "Menes - Wikipedia"
-[7]: https://www.thoughtco.com/menes-first-king-of-egypt-119800?utm_source=chatgpt.com "Menes - Legend of the First King of Egypt - ThoughtCo"
-[8]: https://thefinancialexpress.com.bd/lifestyle/culture/did-you-know-the-first-pharaoh-of-the-united-egypt-was-killed-by-a-hippopotamus?utm_source=chatgpt.com "Did you know the first Pharaoh of the united Egypt was killed by a ..."
+[7]: https://www.thoughtco.com/menes-first-king-of-egypt-119800 "Menes - Legend of the First King of Egypt - ThoughtCo"
+[8]: https://thefinancialexpress.com.bd/lifestyle/culture/did-you-know-the-first-pharaoh-of-the-united-egypt-was-killed-by-a-hippopotamus "Did you know the first Pharaoh of the united Egypt was killed by a ..."

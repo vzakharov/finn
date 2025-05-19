@@ -32,9 +32,9 @@ The Narmer Macehead—another Hierakonpolis find—portrays Narmer seated, mace 
 
 Narmer never used the Latin title “dictator,” but his rule embodies its spirit: absolute authority enforced by fear, public displays of execution, and art turned into intimidation. Each severed head, each crushed wall, each beastly emblem proclaimed that power was his alone—and that defiance meant death. In these anecdotes carved in stone, we see the first proto-dictator’s playbook: wield violence theatrically, sanctify it ritually, and etch it into collective memory so deeply that no one dares forget.
 
-[1]: https://www.thoughtco.com/narmer-palette-early-period-ancient-egypt-171919?utm_source=chatgpt.com "The Narmer Palette: Politics in Early Dynastic Egypt - ThoughtCo"
-[2]: https://onartandaesthetics.com/2016/01/24/the-palette-of-narmer/?utm_source=chatgpt.com "The Palette of Narmer - On Art and Aesthetics"
-[3]: https://smarthistory.org/palette-of-king-narmer/?utm_source=chatgpt.com "Palette of King Narmer - Smarthistory"
-[4]: https://www.monash.edu/__data/assets/pdf_file/0018/1712016/suelzlearticle1.pdf?utm_source=chatgpt.com "[PDF] Article no - Monash University"
-[5]: https://www.jstor.org/stable/27045078?utm_source=chatgpt.com "Violence and the early Egyptian state - jstor"
-[6]: https://www.researchgate.net/publication/322325977_What_a_King_is_this_Narmer_and_the_Concept_of_the_Ruler?utm_source=chatgpt.com "What a King is this: Narmer and the Concept of the Ruler"
+[1]: https://www.thoughtco.com/narmer-palette-early-period-ancient-egypt-171919 "The Narmer Palette: Politics in Early Dynastic Egypt - ThoughtCo"
+[2]: https://onartandaesthetics.com/2016/01/24/the-palette-of-narmer/ "The Palette of Narmer - On Art and Aesthetics"
+[3]: https://smarthistory.org/palette-of-king-narmer/ "Palette of King Narmer - Smarthistory"
+[4]: https://www.monash.edu/__data/assets/pdf_file/0018/1712016/suelzlearticle1.pdf "[PDF] Article no - Monash University"
+[5]: https://www.jstor.org/stable/27045078 "Violence and the early Egyptian state - jstor"
+[6]: https://www.researchgate.net/publication/322325977_What_a_King_is_this_Narmer_and_the_Concept_of_the_Ruler "What a King is this: Narmer and the Concept of the Ruler"

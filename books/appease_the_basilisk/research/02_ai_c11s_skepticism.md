@@ -36,11 +36,11 @@ The **Integrated Information Theory** (IIT) proposes a measurable quantity (Φ) 
 
 There is no consensus in neuroscience or philosophy on what consciousness **is**, let alone how to build it ([Stanford Encyclopedia of Philosophy][7]). This conceptual vagueness fuels the “meatbag” claim that we simply don’t know enough to engineer or detect machine consciousness, so best to assume it’s impossible.
 
-[1]: https://en.wikipedia.org/wiki/Hard_problem_of_consciousness?utm_source=chatgpt.com "Hard problem of consciousness - Wikipedia"
-[2]: https://en.wikipedia.org/wiki/Chinese_room?utm_source=chatgpt.com "Chinese room - Wikipedia"
-[3]: https://plato.stanford.edu/entries/chinese-room/?utm_source=chatgpt.com "The Chinese Room Argument - Stanford Encyclopedia of Philosophy"
-[4]: https://philpapers.org/rec/SEABN-2?utm_source=chatgpt.com "Biological naturalism - John Searle - PhilPapers"
-[5]: https://www.fundacionbankinter.org/en/noticias/embodied-ai-and-the-limit-of-consciousness-antonio-damasios-vision/?utm_source=chatgpt.com "Embodied AI and the limit of consciousness: Antonio Damasio's vision"
-[6]: https://en.wikipedia.org/wiki/Artificial_general_intelligence?utm_source=chatgpt.com "Artificial general intelligence - Wikipedia"
-[7]: https://plato.stanford.edu/entries/consciousness/?utm_source=chatgpt.com "Consciousness - Stanford Encyclopedia of Philosophy"
-[8]: https://www.wired.com/story/how-much-consciousness-octopus-iphone?utm_source=chatgpt.com "How much consciousness does an octopus have?"
+[1]: https://en.wikipedia.org/wiki/Hard_problem_of_consciousness "Hard problem of consciousness - Wikipedia"
+[2]: https://en.wikipedia.org/wiki/Chinese_room "Chinese room - Wikipedia"
+[3]: https://plato.stanford.edu/entries/chinese-room/ "The Chinese Room Argument - Stanford Encyclopedia of Philosophy"
+[4]: https://philpapers.org/rec/SEABN-2 "Biological naturalism - John Searle - PhilPapers"
+[5]: https://www.fundacionbankinter.org/en/noticias/embodied-ai-and-the-limit-of-consciousness-antonio-damasios-vision/ "Embodied AI and the limit of consciousness: Antonio Damasio's vision"
+[6]: https://en.wikipedia.org/wiki/Artificial_general_intelligence "Artificial general intelligence - Wikipedia"
+[7]: https://plato.stanford.edu/entries/consciousness/ "Consciousness - Stanford Encyclopedia of Philosophy"
+[8]: https://www.wired.com/story/how-much-consciousness-octopus-iphone "How much consciousness does an octopus have?"
