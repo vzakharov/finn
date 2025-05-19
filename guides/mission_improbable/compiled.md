@@ -14,8 +14,8 @@ This guide is for you.
 
 No patriotic fluff. No calls to glory. Just the hard, gritty, cowardly (read: intelligent) tactics to *not die* and *not kill* — for as long as humanly, or inhumanly, possible.
 
-Welcome to the survivalist’s paradox.  
-Let’s keep you breathing.
+Welcome to the survivalist’s paradox.\
+Let’s keep you breathing.\
 This is Glitchporn.
 
 ## Disclaimers
