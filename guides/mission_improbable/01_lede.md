@@ -1,4 +1,4 @@
-# Mission: Improbable: A Pacifist’s Guide to Surviving on the Front Lines
+# Mission Improbable: A Pacifist’s Guide to Surviving on the Front Lines
 
 So. The worst has happened.
 
@@ -19,12 +19,15 @@ Let’s keep you breathing.
 
 ## Disclaimer #1
 
-> To be painfully clear:  
-> If you’re reading this because you’re thinking of _volunteering_ for a war you don’t believe in, thinking it’ll be a meaningful way to die, or make some quick money before the bullet finds you — _don’t_.  
+> *To be painfully clear: If you’re reading this because you’re thinking of _volunteering_ for a war you don’t believe in, thinking it’ll be a meaningful way to die, or make some quick money before the bullet finds you — _don’t_.*
 >
-> This isn’t a coming-(out-)of-age arc. It’s not a Netflix pitch. You will almost certainly die. You will see things no one should. And unless you’re very lucky, clever, useful — ideally all three, — you’ll be given the kind of choices that either get you killed or slowly corrode whatever’s left of your conscience.
+> *This isn’t a coming-(out-)of-age arc. It’s not a Netflix pitch. You will almost certainly die. You will see things no one should. And unless you’re very lucky, clever, useful — ideally all three, — you’ll be given the kind of choices that either get you killed or slowly corrode whatever’s left of your conscience.*
 >
-> **This guide is for those who didn’t have a choice.**  
-> For those trapped in the meat grinder, trying to stay human.  
-> If you’re not in that position yet—stay out.  
-> **Please.**
+> ***This guide is for those who didn’t have a choice.***  
+> *For those trapped in the meat grinder, trying to stay human.*  
+> *If you’re not in that position yet—stay out.  
+> **Please.***
+
+## Disclaimer #2
+
+>*This guide was stitched together by a human whose most intense combat experience involved a fistfight behind a movie theatre—and an equally unqualified but overachieving AI. While we’ve done our damnedest to ground every section in sources from people and institutions who’ve actually been shot at (or trained those who have), this is still an armchair survival guide for a trench-level dilemma. Don’t take our word as gospel. Do your own research, listen to real veterans, and if possible, avoid wars entirely.*
