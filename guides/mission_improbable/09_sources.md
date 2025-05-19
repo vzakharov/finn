@@ -12,7 +12,7 @@
 
 * MacCoun & Hix. *[Unit Cohesion and Military Performance](https://www.law.berkeley.edu/files/csls/Unit_Cohesion_and_Military_Performance_Ch5_MacCoun_Hix.pdf).* (RAND study update, 2010s). (Personal bonds are crucial for combat motivation and unit survival.)
 
-* U.S. Army Field Manual 21-75 (excerpt via GlobalSecurity.org). *[Ch.3: Movement Techniques](https://www.globalsecurity.org/military/library/policy/army/fm/21-75/ch3.htm).* (In combat: move covered to covered, use low crawl for lowest silhouette, rushes no longer than 3-5 seconds to avoid enemy tracking.)
+* U.S. Army Field Manual 21-75 (excerpt via GlobalSecurity.org). *[Ch.3: Movement Techniques](https://www.globalsecurity.org/military/library/policy/army/fm/21-75/Ch3.htm).* (In combat: move covered to covered, use low crawl for lowest silhouette, rushes no longer than 3-5 seconds to avoid enemy tracking.)
 
 * LowFlyZone Tripod. *[The 5 S’s of Camouflage and Concealment](https://lowflyzone.tripod.com/info/fivess.html).* (Guide on stealth: stay still if observed (movement attracts the eye); don’t skyline yourself on ridges; no smoking – the glow and smell give you away.)
 
@@ -20,11 +20,11 @@
 
 * North American Rescue whitepaper. *[Empirical Cause of Preventable Death in Combat](https://www.narescue.com/media/wysiwyg/CMS/additional_reading/pdfs/tccc.pdf).* (Across wars, 60% of preventable combat deaths due to extremity hemorrhage – underscores importance of tourniquets/first aid.)
 
-* Lagasse, Paul (USAMRDC). *[Warfighter Fatigue](https://www.mrdc.health.mil/index.cfm/media/articles/2024/MOMRP_funds_fatigue_research).* (Army study: 4 hours sleep per night can degrade combat effectiveness by up to 85% – highlighting importance of rest for performance and mental health.)
+* Lagasse, Paul (USAMRDC). *[Warfighter Fatigue](https://mrdc.health.mil/index.cfm/media/articles/2024/MOMRP_funds_fatigue_research).* (Army study: 4 hours sleep per night can degrade combat effectiveness by up to 85% – highlighting importance of rest for performance and mental health.)
 
-* War on the Rocks – Haughey, Patrick. *[When Can a Soldier Disobey an Order?](https://warontherocks.com/2017/03/when-can-a-soldier-disobey-an-order/).* (Discusses legality of refusing unlawful orders; e.g., soldiers rightly refused to massacre civilians at My Lai and were not punished.)
+* War on the Rocks – Haughey, Patrick. *[When Can a Soldier Disobey an Order?](https://www.militaryjusticecenter.com/blog/2022/03/can-you-recognize-an-unlawful-order/).* (Discusses legality of refusing unlawful orders; e.g., soldiers rightly refused to massacre civilians at My Lai and were not punished.)
 
-* NDU Press – Maj. Pete Kilner. *[Moral Injury: Protecting Soldiers from Real Harm](https://www.ndu.edu/news/moral-injury-protecting-soldiers-from-real-harm/).* (Includes drone operator quote: *“I felt like I was haunted by a legion of the dead...ready to eat a bullet myself.”* – on the toll of killing remotely.)
+* NDU Press – Maj. Pete Kilner. *[Moral Injury: Protecting Soldiers from Real Harm](https://ndupress.ndu.edu/Media/News/News-Article-View/Article/1737148/force-protection-from-moral-injury-three-objectives-for-military-leaders/).* (Includes drone operator quote: *“I felt like I was haunted by a legion of the dead...ready to eat a bullet myself.”* – on the toll of killing remotely.)
 
 * Wikimedia Commons (Category: WWI Executions). *[Shot at Dawn Memorial](https://en.wikipedia.org/wiki/Shot_at_Dawn_Memorial).* (Commemorates 306 British/Commonwealth soldiers executed in WWI for desertion/cowardice. Notes historical pardons in 2006.)
 
@@ -32,7 +32,7 @@
 
 * [Vietnam War desertion data](https://www.cia.gov/readingroom/docs/CIA-RDP90-00965R000706530010-3.pdf). (Desertion/AWOL rates spiked during Vietnam – up to 5-10 per 1000 at peak – indicating many soldiers ultimately “ghosted” the war, despite risks.)
 
-* British Library Blog. *[Grit and Humour in WWI](https://www.bl.uk/blog/2014/grit-and-humour-in-wwi).* (Accounts of soldiers using jokes and camaraderie to cope with trench life.)
+* British Library Blog. *[Grit and Humour in WWI](https://www.cmi.no/publications/file/8619-warfun-diaries-vol-1.pdf).* (Accounts of soldiers using jokes and camaraderie to cope with trench life.)
 
 * Modern War Institute – Collins, Matt. *[The Ritual](https://mwi.westpoint.edu/the-ritual/).* (On importance of rituals for service members coping with grief and chaos – personal rituals like pre-mission prayers, unit memorial ceremonies give order to disorder.)
 
