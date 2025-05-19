@@ -1,4 +1,4 @@
-# Mission Improbable: A Pacifist's Guide to Surviving on the Front Lines
+# Mission Improbable: A Pacifist’s Guide to Surviving on the Front Lines
 
 A practical guide for conscientious objectors and pacifists who find themselves unwillingly thrust into armed conflict, offering survival strategies that preserve both life and moral integrity.
 
